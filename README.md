@@ -8,7 +8,9 @@
 2. В настройках плагина в разделе "Subscription" нажмите на кнопку "Add a subscription"
 3. В поле "Name" введите `ublacklist-nra`. В поле "URL" вставьте ссылку, указанную ниже. Затем нажмите "Add"
 
-`https://raw.githubusercontent.com/xxkfqz/ublacklist-nra/master/ublacklist-nra.txt`
+```
+https://raw.githubusercontent.com/xxkfqz/ublacklist-nra/master/ublacklist-nra.txt
+```
 
 # Как помочь?
 
