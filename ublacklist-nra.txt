@@ -1,0 +1,9 @@
+*://*.bkfc.ru/*
+*://*.dezinfekc.ru/*
+*://*.fizika-ili-himija.ru/*
+*://*.goodvar.ru/*
+*://*.greenwaysait.ru/*
+*://*.helpdoma.ru/*
+*://*.lifehacks.kyiv.ua/*
+*://*.saharvnorme.ru/*
+*://*.vitavision.ru/*
