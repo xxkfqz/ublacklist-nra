@@ -1,3 +1,5 @@
+*://*.42buketa.ru/*
+*://*.ampaints.ru/*
 *://*.bkfc.ru/*
 *://*.dezinfekc.ru/*
 *://*.fizika-ili-himija.ru/*
@@ -8,6 +10,7 @@
 *://*.kanalizaciya-stroy.ru/*
 *://*.ledsshop.ru/*
 *://*.lifehacks.kyiv.ua/*
+*://*.obzorposudy.ru/*
 *://*.saharvnorme.ru/*
 *://*.u-keramika.ru/*
 *://*.vitavision.ru/*
