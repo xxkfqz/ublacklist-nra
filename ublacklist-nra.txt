@@ -4,6 +4,11 @@
 *://*.goodvar.ru/*
 *://*.greenwaysait.ru/*
 *://*.helpdoma.ru/*
+*://*.ivablog.ru/*
+*://*.kanalizaciya-stroy.ru/*
+*://*.ledsshop.ru/*
 *://*.lifehacks.kyiv.ua/*
 *://*.saharvnorme.ru/*
+*://*.u-keramika.ru/*
 *://*.vitavision.ru/*
+*://*.znaysad.ru/*
