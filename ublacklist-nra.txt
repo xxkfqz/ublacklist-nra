@@ -34,9 +34,11 @@
 *://*.investim.guru/*
 *://*.iskonspb.ru/*
 *://*.ivablog.ru/*
+*://*.japan-portal.ru/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kopterinfo.ru/*
 *://*.koshkinahata.ru/*
+*://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.lifehacks.kyiv.ua/*
 *://*.markouks.ru/*
@@ -51,6 +53,7 @@
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
 *://*.potelevizoram.ru/*
+*://*.profakty.ru/*
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
 *://*.scbiinfrastruktura.ru/*
