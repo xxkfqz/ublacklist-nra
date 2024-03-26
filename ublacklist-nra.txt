@@ -31,6 +31,7 @@
 *://*.greenwaysait.ru/*
 *://*.helpdoma.ru/*
 *://*.ic-stroy.ru/*
+*://*.infokotiki.ru/*
 *://*.investim.guru/*
 *://*.iskonspb.ru/*
 *://*.ivablog.ru/*
@@ -38,6 +39,7 @@
 *://*.kanalizaciya-stroy.ru/*
 *://*.kopterinfo.ru/*
 *://*.koshkinahata.ru/*
+*://*.koshkiwiki.ru/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.lifehacks.kyiv.ua/*
