@@ -69,7 +69,9 @@
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
 *://*.vitavision.ru/*
+*://*.ways4you.ru/*
 *://*.windoro.ru/*
+*://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
 *://*.yaznayotvet.ru/*
