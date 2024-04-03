@@ -31,6 +31,7 @@
 *://*.fonarhotel.ru/*
 *://*.fresh-dealer.ru/*
 *://*.gdostavka.ru/*
+*://*.giroswheel.ru/*
 *://*.god-rust.ru/*
 *://*.goodvar.ru/*
 *://*.greenwaysait.ru/*
@@ -45,6 +46,7 @@
 *://*.ivablog.ru/*
 *://*.japan-portal.ru/*
 *://*.joecomp.com/*
+*://*.journalovirus.ru/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
 *://*.khokku.ru/*
@@ -55,9 +57,11 @@
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.lifehacks.kyiv.ua/*
+*://*.lmzs.ru/*
 *://*.lukinews.ru/*
 *://*.marketingideas.ru/*
 *://*.markouks.ru/*
+*://*.mechtarybolova.ru/*
 *://*.mediadoma.com/*
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
@@ -72,6 +76,7 @@
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
 *://*.potelevizoram.ru/*
+*://*.powerdmarc.com/*
 *://*.profakty.ru/*
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
