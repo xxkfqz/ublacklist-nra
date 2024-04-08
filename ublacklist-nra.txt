@@ -43,6 +43,7 @@
 *://*.ishyfaq.ru/*
 *://*.iskonspb.ru/*
 *://*.itigic.com/*
+*://*.itsecforu.ru/*
 *://*.ivablog.ru/*
 *://*.japan-portal.ru/*
 *://*.joecomp.com/*
@@ -82,6 +83,7 @@
 *://*.samodelino.ru/*
 *://*.scbiinfrastruktura.ru/*
 *://*.semenaforum.ru/*
+*://*.serveradmin.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.socialgurusphere.ru/*
