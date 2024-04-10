@@ -1,9 +1,11 @@
 *://*.26pk.ru/*
 *://*.42buketa.ru/*
+*://*.4bitrix.ru/*
 *://*.alfacasting.ru/*
 *://*.ampaints.ru/*
 *://*.answersearch.ru/*
 *://*.aquaznanie.ru/*
+*://*.arduino-tech.ru/*
 *://*.autotuning.expert/*
 *://*.bazaznanie.ru/*
 *://*.baziudachi.ru/*
@@ -15,6 +17,7 @@
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
 *://*.clite.ru/*
+*://*.comp-security.net/*
 *://*.crast.net/*
 *://*.dansay.ru/*
 *://*.delresurs.ru/*
@@ -79,6 +82,8 @@
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
 *://*.profakty.ru/*
+*://*.prog-time.ru/*
+*://*.rv-o.ru/*
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
 *://*.scbiinfrastruktura.ru/*
