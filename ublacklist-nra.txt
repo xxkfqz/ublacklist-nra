@@ -92,6 +92,8 @@
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.socialgurusphere.ru/*
+*://*.stroy-podskazka.ru/*
+*://*.svoimirukamivse.ru/*
 *://*.svoy-vetrogenerator.ru/*
 *://*.techberg.ru/*
 *://*.technika-remont.ru/*
@@ -100,6 +102,7 @@
 *://*.u-keramika.ru/*
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
+*://*.vannayasovety.ru/*
 *://*.videosolo.com/*
 *://*.vitavision.ru/*
 *://*.ways4you.ru/*
