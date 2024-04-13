@@ -34,6 +34,7 @@
 *://*.fonarhotel.ru/*
 *://*.fresh-dealer.ru/*
 *://*.gdostavka.ru/*
+*://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
 *://*.god-rust.ru/*
 *://*.goodvar.ru/*
@@ -69,6 +70,7 @@
 *://*.mediadoma.com/*
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
+*://*.modsgames.ru/*
 *://*.mysolti.ru/*
 *://*.na-stolka.ru/*
 *://*.obzorposudy.ru/*
@@ -79,6 +81,7 @@
 *://*.otvetbaza.ru/*
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
+*://*.otvet-pravda.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
 *://*.profakty.ru/*
@@ -91,7 +94,9 @@
 *://*.serveradmin.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
+*://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
+*://*.stalked.ru/*
 *://*.stroy-podskazka.ru/*
 *://*.svoimirukamivse.ru/*
 *://*.svoy-vetrogenerator.ru/*
