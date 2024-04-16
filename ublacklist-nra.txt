@@ -70,6 +70,7 @@
 *://*.mediadoma.com/*
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
+*://*.mizakona.ru/*
 *://*.modsgames.ru/*
 *://*.mysolti.ru/*
 *://*.na-stolka.ru/*
@@ -110,6 +111,7 @@
 *://*.vannayasovety.ru/*
 *://*.videosolo.com/*
 *://*.vitavision.ru/*
+*://*.vsetehpribory.ru/*
 *://*.ways4you.ru/*
 *://*.webznam.ru/*
 *://*.willi-mos.ru/*
