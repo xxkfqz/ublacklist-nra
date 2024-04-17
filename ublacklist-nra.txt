@@ -54,6 +54,7 @@
 *://*.journalovirus.ru/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
+*://*.katerinasokol.ru/*
 *://*.khokku.ru/*
 *://*.kompyuter-gid.ru/*
 *://*.kopterinfo.ru/*
@@ -87,6 +88,7 @@
 *://*.powerdmarc.com/*
 *://*.profakty.ru/*
 *://*.prog-time.ru/*
+*://*.ruclient.ru/*
 *://*.rusadmin.biz/*
 *://*.rv-o.ru/*
 *://*.saharvnorme.ru/*
@@ -96,6 +98,7 @@
 *://*.serveradmin.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
+*://*.siobr.ru/*
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
 *://*.stalked.ru/*
@@ -117,6 +120,7 @@
 *://*.webznam.ru/*
 *://*.willi-mos.ru/*
 *://*.windoro.ru/*
+*://*.winitpro.ru/*
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
