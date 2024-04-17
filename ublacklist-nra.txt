@@ -87,6 +87,7 @@
 *://*.powerdmarc.com/*
 *://*.profakty.ru/*
 *://*.prog-time.ru/*
+*://*.rusadmin.biz/*
 *://*.rv-o.ru/*
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
