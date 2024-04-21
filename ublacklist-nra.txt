@@ -1,4 +1,5 @@
 *://*.26pk.ru/*
+*://*.3pechi.ru/*
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
 *://*.alfacasting.ru/*
@@ -29,6 +30,7 @@
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
 *://*.fateline.ru/*
+*://*.fivefive.ru/*
 *://*.fizika-ili-himija.ru/*
 *://*.foecity.ru/*
 *://*.fonarhotel.ru/*
