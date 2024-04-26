@@ -64,9 +64,11 @@
 *://*.koshkiwiki.ru/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
+*://*.letsplayers.ru/*
 *://*.lifehacks.kyiv.ua/*
 *://*.lmzs.ru/*
 *://*.lukinews.ru/*
+*://*.manikurista.ru/*
 *://*.marketingideas.ru/*
 *://*.markouks.ru/*
 *://*.mechtarybolova.ru/*
@@ -90,6 +92,7 @@
 *://*.powerdmarc.com/*
 *://*.profakty.ru/*
 *://*.prog-time.ru/*
+*://*.raspberry3.ru/*
 *://*.ruclient.ru/*
 *://*.rusadmin.biz/*
 *://*.rv-o.ru/*
