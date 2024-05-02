@@ -2,6 +2,7 @@
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
+*://*.afishatop.ru/*
 *://*.alfacasting.ru/*
 *://*.ampaints.ru/*
 *://*.answersearch.ru/*
@@ -15,6 +16,7 @@
 *://*.blits-air.ru/*
 *://*.blogrunet.ru/*
 *://*.bluraycopys.com/*
+*://*.browserplay.ru/*
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
 *://*.clite.ru/*
@@ -24,6 +26,7 @@
 *://*.delresurs.ru/*
 *://*.devicetip.ru/*
 *://*.dezinfekc.ru/*
+*://*.diablo1.ru/*
 *://*.dino-park-rex.ru/*
 *://*.dudu-organic.ru/*
 *://*.electroinfo.net/*
@@ -43,6 +46,8 @@
 *://*.greenwaysait.ru/*
 *://*.helpdoma.ru/*
 *://*.ic-stroy.ru/*
+*://*.igry-gid.ru/*
+*://*.imena-dlya-devochek.ru/*
 *://*.infokotiki.ru/*
 *://*.investim.guru/*
 *://*.iro-yar.ru/*
@@ -59,6 +64,7 @@
 *://*.katerinasokol.ru/*
 *://*.khokku.ru/*
 *://*.kompyuter-gid.ru/*
+*://*.kompyutery-programmy.ru/*
 *://*.kopterinfo.ru/*
 *://*.koshkinahata.ru/*
 *://*.koshkiwiki.ru/*
@@ -77,6 +83,7 @@
 *://*.media-player-s.ru/*
 *://*.mizakona.ru/*
 *://*.modsgames.ru/*
+*://*.mozaiyka.ru/*
 *://*.mysolti.ru/*
 *://*.na-stolka.ru/*
 *://*.obzorposudy.ru/*
@@ -107,6 +114,7 @@
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
 *://*.stalked.ru/*
+*://*.steamshared.ru/*
 *://*.stroy-podskazka.ru/*
 *://*.svoimirukamivse.ru/*
 *://*.svoy-vetrogenerator.ru/*
@@ -126,6 +134,7 @@
 *://*.willi-mos.ru/*
 *://*.windoro.ru/*
 *://*.winitpro.ru/*
+*://*.wotpack.ru/*
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
