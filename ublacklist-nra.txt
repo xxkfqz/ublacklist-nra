@@ -1,3 +1,4 @@
+*://*.1stalin.ru/*
 *://*.26pk.ru/*
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
@@ -20,6 +21,7 @@
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
 *://*.clite.ru/*
+*://*.comfort-kuhni.ru/*
 *://*.comp-security.net/*
 *://*.crast.net/*
 *://*.dansay.ru/*
@@ -45,6 +47,7 @@
 *://*.goodvar.ru/*
 *://*.greenwaysait.ru/*
 *://*.helpdoma.ru/*
+*://*.ichip.ru/*
 *://*.ic-stroy.ru/*
 *://*.igry-gid.ru/*
 *://*.imena-dlya-devochek.ru/*
@@ -99,7 +102,9 @@
 *://*.powerdmarc.com/*
 *://*.profakty.ru/*
 *://*.prog-time.ru/*
+*://*.questquotient.ru/*
 *://*.raspberry3.ru/*
+*://*.riseofkingdom.ru/*
 *://*.ruclient.ru/*
 *://*.rusadmin.biz/*
 *://*.rv-o.ru/*
