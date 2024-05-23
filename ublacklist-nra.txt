@@ -29,11 +29,13 @@
 *://*.devicetip.ru/*
 *://*.dezinfekc.ru/*
 *://*.diablo1.ru/*
+*://*.diler-azhemak.ru/*
 *://*.dino-park-rex.ru/*
 *://*.dudu-organic.ru/*
 *://*.electroinfo.net/*
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
+*://*.excel-plus.ru/*
 *://*.fateline.ru/*
 *://*.fivefive.ru/*
 *://*.fizika-ili-himija.ru/*
@@ -67,6 +69,7 @@
 *://*.kashingdk.ru/*
 *://*.katerinasokol.ru/*
 *://*.khokku.ru/*
+*://*.k-m-b.ru/*
 *://*.kompyuter-gid.ru/*
 *://*.kompyutery-programmy.ru/*
 *://*.kopterinfo.ru/*
@@ -87,6 +90,7 @@
 *://*.media-player-s.ru/*
 *://*.mizakona.ru/*
 *://*.modsgames.ru/*
+*://*.mosproekty.ru/*
 *://*.mozaiyka.ru/*
 *://*.mysolti.ru/*
 *://*.na-stolka.ru/*
@@ -147,6 +151,7 @@
 *://*.yaznayotvet.ru/*
 *://*.ybierling.com/*
 *://*.ygolok.ru/*
+*://*.yourknives.ru/*
 *://*.yug-upr.ru/*
 *://*.znaysad.ru/*
 *://*.zvenst.ru/*
