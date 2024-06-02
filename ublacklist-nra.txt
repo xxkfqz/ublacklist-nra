@@ -24,6 +24,7 @@
 *://*.comfort-kuhni.ru/*
 *://*.comp-security.net/*
 *://*.crast.net/*
+*://*.czarsafe.ru/*
 *://*.dansay.ru/*
 *://*.delresurs.ru/*
 *://*.devicetip.ru/*
@@ -105,6 +106,7 @@
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
 *://*.otvet-pravda.ru/*
+*://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
 *://*.profakty.ru/*
@@ -127,6 +129,7 @@
 *://*.socialgurusphere.ru/*
 *://*.stalked.ru/*
 *://*.steamshared.ru/*
+*://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
 *://*.svoimirukamivse.ru/*
 *://*.svoy-vetrogenerator.ru/*
