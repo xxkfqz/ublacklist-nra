@@ -95,6 +95,7 @@
 *://*.mysolti.ru/*
 *://*.na-stolka.ru/*
 *://*.obzorposudy.ru/*
+*://*.o-dveryah.ru/*
 *://*.ok15.ru/*
 *://*.omagnitolah.ru/*
 *://*.optpalto.ru/*
