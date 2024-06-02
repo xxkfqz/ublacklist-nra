@@ -94,6 +94,7 @@
 *://*.mozaiyka.ru/*
 *://*.mysolti.ru/*
 *://*.na-stolka.ru/*
+*://*.oarduino.ru/*
 *://*.obzorposudy.ru/*
 *://*.o-dveryah.ru/*
 *://*.ok15.ru/*
