@@ -32,6 +32,7 @@
 *://*.diablo1.ru/*
 *://*.diler-azhemak.ru/*
 *://*.dino-park-rex.ru/*
+*://*.dom-team.ru/*
 *://*.dudu-organic.ru/*
 *://*.electroinfo.net/*
 *://*.elektrospets.ru/*
@@ -43,6 +44,7 @@
 *://*.foecity.ru/*
 *://*.fonarhotel.ru/*
 *://*.fresh-dealer.ru/*
+*://*.fsnslnr.su/*
 *://*.gamaem.ru/*
 *://*.gdostavka.ru/*
 *://*.ghostgm.ru/*
@@ -109,6 +111,7 @@
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
+*://*.proeveryday.ru/*
 *://*.profakty.ru/*
 *://*.prog-time.ru/*
 *://*.questquotient.ru/*
@@ -128,6 +131,7 @@
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
 *://*.stalked.ru/*
+*://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
