@@ -6,6 +6,7 @@
 *://*.afishatop.ru/*
 *://*.alfacasting.ru/*
 *://*.ampaints.ru/*
+*://*.androidlime.ru/*
 *://*.answersearch.ru/*
 *://*.aquaznanie.ru/*
 *://*.arduino-tech.ru/*
