@@ -109,6 +109,7 @@
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
 *://*.otvet-pravda.ru/*
+*://*.penoblo.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
@@ -134,9 +135,11 @@
 *://*.stalked.ru/*
 *://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
+*://*.strouy.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
 *://*.svoimirukamivse.ru/*
+*://*.svoimirykamiinfo.ru/*
 *://*.svoy-vetrogenerator.ru/*
 *://*.techberg.ru/*
 *://*.technika-remont.ru/*
