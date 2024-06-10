@@ -36,6 +36,7 @@
 *://*.dom-team.ru/*
 *://*.dudu-organic.ru/*
 *://*.electroinfo.net/*
+*://*.elektrik-city.ru/*
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
 *://*.excel-plus.ru/*
@@ -115,6 +116,7 @@
 *://*.powerdmarc.com/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
+*://*.profil-pro.ru/*
 *://*.prog-time.ru/*
 *://*.questquotient.ru/*
 *://*.raspberry3.ru/*
@@ -127,11 +129,13 @@
 *://*.scbiinfrastruktura.ru/*
 *://*.semenaforum.ru/*
 *://*.serveradmin.ru/*
+*://*.setafi.com/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
+*://*.soda102.ru/*
 *://*.stalked.ru/*
 *://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
