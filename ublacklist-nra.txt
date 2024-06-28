@@ -22,6 +22,7 @@
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
 *://*.clite.ru/*
+*://*.coderlessons.com/*
 *://*.comfort-kuhni.ru/*
 *://*.comp-security.net/*
 *://*.crast.net/*
