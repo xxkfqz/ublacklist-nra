@@ -25,6 +25,7 @@
 *://*.coderlessons.com/*
 *://*.comfort-kuhni.ru/*
 *://*.comp-security.net/*
+*://*.cq.ru/*
 *://*.crast.net/*
 *://*.czarsafe.ru/*
 *://*.dansay.ru/*
@@ -43,6 +44,7 @@
 *://*.eschemo.ru/*
 *://*.excel-plus.ru/*
 *://*.fateline.ru/*
+*://*.fedotova-school.ru/*
 *://*.fivefive.ru/*
 *://*.fizika-ili-himija.ru/*
 *://*.foecity.ru/*
@@ -51,6 +53,7 @@
 *://*.fsnslnr.su/*
 *://*.gamaem.ru/*
 *://*.gdostavka.ru/*
+*://*.generals-cncrus.ru/*
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
 *://*.god-rust.ru/*
@@ -116,6 +119,7 @@
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
 *://*.otvet-pravda.ru/*
+*://*.pathofexiles.ru/*
 *://*.penoblo.ru/*
 *://*.pnevmogun.ru/*
 *://*.poshtukaturke.ru/*
@@ -139,6 +143,7 @@
 *://*.semenaforum.ru/*
 *://*.serveradmin.ru/*
 *://*.setafi.com/*
+*://*.sharigame.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
