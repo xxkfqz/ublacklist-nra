@@ -14,6 +14,7 @@
 *://*.bazaznanie.ru/*
 *://*.baziudachi.ru/*
 *://*.beltapki.ru/*
+*://*.benams.ru/*
 *://*.bkfc.ru/*
 *://*.blits-air.ru/*
 *://*.blogrunet.ru/*
@@ -28,6 +29,7 @@
 *://*.cq.ru/*
 *://*.crast.net/*
 *://*.czarsafe.ru/*
+*://*.danovosty.ru/*
 *://*.dansay.ru/*
 *://*.deepcloud.ru/*
 *://*.delresurs.ru/*
@@ -37,6 +39,7 @@
 *://*.diler-azhemak.ru/*
 *://*.dino-park-rex.ru/*
 *://*.dom-team.ru/*
+*://*.drevologia.ru/*
 *://*.dudu-organic.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
@@ -120,11 +123,13 @@
 *://*.otvetimfaq.ru/*
 *://*.otvet-pravda.ru/*
 *://*.pathofexiles.ru/*
+*://*.pcminipro.ru/*
 *://*.penoblo.ru/*
 *://*.pnevmogun.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
+*://*.powerusergu.ru/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
 *://*.profil-pro.ru/*
@@ -133,8 +138,11 @@
 *://*.raspberry3.ru/*
 *://*.raznic.net/*
 *://*.raznicynet.com/*
+*://*.rebusnik.ru/*
+*://*.remstroy.pro/*
 *://*.riseofkingdom.ru/*
 *://*.ruclient.ru/*
+*://*.rudevice.ru/*
 *://*.rusadmin.biz/*
 *://*.rv-o.ru/*
 *://*.saharvnorme.ru/*
@@ -161,11 +169,14 @@
 *://*.svoy-vetrogenerator.ru/*
 *://*.techberg.ru/*
 *://*.technika-remont.ru/*
+*://*.telegramas.ru/*
+*://*.toadmin.ru/*
 *://*.t-roc24.ru/*
 *://*.tvdigitally.ru/*
 *://*.u-keramika.ru/*
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
+*://*.vamtlgrm.com/*
 *://*.vannayasovety.ru/*
 *://*.videosolo.com/*
 *://*.vitavision.ru/*
