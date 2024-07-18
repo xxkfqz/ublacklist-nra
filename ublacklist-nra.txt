@@ -43,6 +43,7 @@
 *://*.dudu-organic.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
+*://*.elektrikexpert.ru/*
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
 *://*.excel-plus.ru/*
@@ -134,6 +135,7 @@
 *://*.profakty.ru/*
 *://*.profil-pro.ru/*
 *://*.prog-time.ru/*
+*://*.prospk.ru/*
 *://*.questquotient.ru/*
 *://*.raspberry3.ru/*
 *://*.raznic.net/*
