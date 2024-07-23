@@ -102,6 +102,7 @@
 *://*.mediadoma.com/*
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
+*://*.mikrotiklab.ru/*
 *://*.mizakona.ru/*
 *://*.modsgames.ru/*
 *://*.mosproekty.ru/*
@@ -154,9 +155,11 @@
 *://*.serveradmin.ru/*
 *://*.setafi.com/*
 *://*.sharigame.ru/*
+*://*.shhost.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
+*://*.smartadm.ru/*
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
 *://*.soda102.ru/*
