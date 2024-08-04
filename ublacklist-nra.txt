@@ -5,8 +5,11 @@
 *://*.4bitrix.ru/*
 *://*.afishatop.ru/*
 *://*.alfacasting.ru/*
+*://*.alphr.com/*
 *://*.ampaints.ru/*
+*://*.androidinsider.ru/*
 *://*.androidlime.ru/*
+*://*.androidtvbox.ru/*
 *://*.answersearch.ru/*
 *://*.aquaznanie.ru/*
 *://*.arduino-tech.ru/*
@@ -57,6 +60,7 @@
 *://*.fsnslnr.su/*
 *://*.gamaem.ru/*
 *://*.gdostavka.ru/*
+*://*.geekville.ru/*
 *://*.generals-cncrus.ru/*
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
@@ -75,6 +79,7 @@
 *://*.iskonspb.ru/*
 *://*.itigic.com/*
 *://*.itsecforu.ru/*
+*://*.it-tehnik.ru/*
 *://*.ivablog.ru/*
 *://*.japan-portal.ru/*
 *://*.joecomp.com/*
@@ -111,6 +116,7 @@
 *://*.nardar.ru/*
 *://*.na-stolka.ru/*
 *://*.needlewoman.ru/*
+*://*.nokiagid.ru/*
 *://*.oarduino.ru/*
 *://*.obzorposudy.ru/*
 *://*.o-dveryah.ru/*
@@ -132,6 +138,7 @@
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
 *://*.powerusergu.ru/*
+*://*.proantab.ru/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
 *://*.profil-pro.ru/*
@@ -154,6 +161,7 @@
 *://*.semenaforum.ru/*
 *://*.serveradmin.ru/*
 *://*.setafi.com/*
+*://*.setphone.ru/*
 *://*.sharigame.ru/*
 *://*.shhost.ru/*
 *://*.silverkomp.ru/*
@@ -182,6 +190,7 @@
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
 *://*.vamtlgrm.com/*
+*://*.v-androide.com/*
 *://*.vannayasovety.ru/*
 *://*.videosolo.com/*
 *://*.vitavision.ru/*
