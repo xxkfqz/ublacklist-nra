@@ -177,6 +177,7 @@
 *://*.strouy.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
+*://*.supersoda.ru/*
 *://*.svoimirukamivse.ru/*
 *://*.svoimirykamiinfo.ru/*
 *://*.svoy-vetrogenerator.ru/*
@@ -192,6 +193,7 @@
 *://*.vamtlgrm.com/*
 *://*.v-androide.com/*
 *://*.vannayasovety.ru/*
+*://*.vetpomoch.ru/*
 *://*.videosolo.com/*
 *://*.vitavision.ru/*
 *://*.vsetehpribory.ru/*
