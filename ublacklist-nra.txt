@@ -23,6 +23,7 @@
 *://*.blogrunet.ru/*
 *://*.bluraycopys.com/*
 *://*.browserplay.ru/*
+*://*.businesslike.ru/*
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
 *://*.clite.ru/*
@@ -40,6 +41,7 @@
 *://*.dezinfekc.ru/*
 *://*.diablo1.ru/*
 *://*.diler-azhemak.ru/*
+*://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
 *://*.dom-team.ru/*
 *://*.drevologia.ru/*
@@ -144,6 +146,7 @@
 *://*.profil-pro.ru/*
 *://*.prog-time.ru/*
 *://*.prospk.ru/*
+*://*.qloudhost.com/*
 *://*.questquotient.ru/*
 *://*.raspberry3.ru/*
 *://*.raznic.net/*
@@ -160,6 +163,7 @@
 *://*.scbiinfrastruktura.ru/*
 *://*.semenaforum.ru/*
 *://*.serveradmin.ru/*
+*://*.servicebox.ru/*
 *://*.setafi.com/*
 *://*.setphone.ru/*
 *://*.sharigame.ru/*
@@ -194,8 +198,10 @@
 *://*.v-androide.com/*
 *://*.vannayasovety.ru/*
 *://*.vetpomoch.ru/*
+*://*.vibacht.ru/*
 *://*.videosolo.com/*
 *://*.vitavision.ru/*
+*://*.vsenotebooki.ru/*
 *://*.vsetehpribory.ru/*
 *://*.ways4you.ru/*
 *://*.webznam.ru/*
