@@ -5,6 +5,7 @@
 *://*.4bitrix.ru/*
 *://*.afishatop.ru/*
 *://*.alfacasting.ru/*
+*://*.allmif.ru/*
 *://*.alphr.com/*
 *://*.ampaints.ru/*
 *://*.androidinsider.ru/*
@@ -32,6 +33,7 @@
 *://*.comp-security.net/*
 *://*.cq.ru/*
 *://*.crast.net/*
+*://*.cubiq.ru/*
 *://*.czarsafe.ru/*
 *://*.danovosty.ru/*
 *://*.dansay.ru/*
@@ -61,13 +63,17 @@
 *://*.fresh-dealer.ru/*
 *://*.fsnslnr.su/*
 *://*.gamaem.ru/*
+*://*.gamefans.ru/*
+*://*.gamere.ru/*
 *://*.gdostavka.ru/*
 *://*.geekville.ru/*
 *://*.generals-cncrus.ru/*
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
 *://*.god-rust.ru/*
+*://*.goodgame.ru/*
 *://*.goodvar.ru/*
+*://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
 *://*.helpdoma.ru/*
 *://*.ichip.ru/*
@@ -75,6 +81,7 @@
 *://*.igry-gid.ru/*
 *://*.imena-dlya-devochek.ru/*
 *://*.infokotiki.ru/*
+*://*.informationsecurityasia.com/*
 *://*.investim.guru/*
 *://*.iro-yar.ru/*
 *://*.ishyfaq.ru/*
@@ -96,6 +103,7 @@
 *://*.kopterinfo.ru/*
 *://*.koshkinahata.ru/*
 *://*.koshkiwiki.ru/*
+*://*.ladyelena.ru/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.letsplayers.ru/*
@@ -135,6 +143,7 @@
 *://*.pathofexiles.ru/*
 *://*.pcminipro.ru/*
 *://*.penoblo.ru/*
+*://*.permyachok.ru/*
 *://*.pnevmogun.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
@@ -157,6 +166,7 @@
 *://*.ruclient.ru/*
 *://*.rudevice.ru/*
 *://*.rusadmin.biz/*
+*://*.rutab.net/*
 *://*.rv-o.ru/*
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
@@ -175,6 +185,8 @@
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
 *://*.soda102.ru/*
+*://*.sports.ru/*
+*://*.spy-soft.net/*
 *://*.stalked.ru/*
 *://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
@@ -185,11 +197,13 @@
 *://*.svoimirukamivse.ru/*
 *://*.svoimirykamiinfo.ru/*
 *://*.svoy-vetrogenerator.ru/*
+*://*.sysadminium.ru/*
 *://*.techberg.ru/*
 *://*.technika-remont.ru/*
 *://*.telegramas.ru/*
 *://*.toadmin.ru/*
 *://*.t-roc24.ru/*
+*://*.true-game.ru/*
 *://*.tvdigitally.ru/*
 *://*.u-keramika.ru/*
 *://*.uralchip.ru/*
@@ -208,6 +222,7 @@
 *://*.willi-mos.ru/*
 *://*.windoro.ru/*
 *://*.winitpro.ru/*
+*://*.wol.su/*
 *://*.wotpack.ru/*
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
