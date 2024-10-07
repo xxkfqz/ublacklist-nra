@@ -103,6 +103,7 @@
 *://*.kopterinfo.ru/*
 *://*.koshkinahata.ru/*
 *://*.koshkiwiki.ru/*
+*://*.kotikiinfo.ru/*
 *://*.ladyelena.ru/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
@@ -161,6 +162,7 @@
 *://*.raznic.net/*
 *://*.raznicynet.com/*
 *://*.rebusnik.ru/*
+*://*.remcomphelp.ru/*
 *://*.remstroy.pro/*
 *://*.riseofkingdom.ru/*
 *://*.ruclient.ru/*
