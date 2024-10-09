@@ -4,6 +4,7 @@
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
 *://*.afishatop.ru/*
+*://*.ahaslides.com/*
 *://*.alfacasting.ru/*
 *://*.allmif.ru/*
 *://*.alphr.com/*
