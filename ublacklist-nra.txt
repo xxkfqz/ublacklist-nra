@@ -26,6 +26,7 @@
 *://*.bluraycopys.com/*
 *://*.browserplay.ru/*
 *://*.businesslike.ru/*
+*://*.byteblitzhub.ru/*
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
 *://*.clite.ru/*
@@ -36,9 +37,11 @@
 *://*.crast.net/*
 *://*.cubiq.ru/*
 *://*.czarsafe.ru/*
+*://*.daf-gas36.ru/*
 *://*.danovosty.ru/*
 *://*.dansay.ru/*
 *://*.deepcloud.ru/*
+*://*.deinfeuer.ru/*
 *://*.delresurs.ru/*
 *://*.devicetip.ru/*
 *://*.dezinfekc.ru/*
@@ -99,6 +102,7 @@
 *://*.katerinasokol.ru/*
 *://*.khokku.ru/*
 *://*.k-m-b.ru/*
+*://*.kolonka31.ru/*
 *://*.kompyuter-gid.ru/*
 *://*.kompyutery-programmy.ru/*
 *://*.kopterinfo.ru/*
@@ -156,6 +160,7 @@
 *://*.profakty.ru/*
 *://*.profil-pro.ru/*
 *://*.prog-time.ru/*
+*://*.proogorodik.ru/*
 *://*.prospk.ru/*
 *://*.qloudhost.com/*
 *://*.questquotient.ru/*
