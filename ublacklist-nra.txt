@@ -74,6 +74,7 @@
 *://*.generals-cncrus.ru/*
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
+*://*.global-ocean.ru/*
 *://*.god-rust.ru/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
@@ -116,6 +117,7 @@
 *://*.lifehacks.kyiv.ua/*
 *://*.lmzs.ru/*
 *://*.lukinews.ru/*
+*://*.madou21.ru/*
 *://*.manikurista.ru/*
 *://*.marketingideas.ru/*
 *://*.markouks.ru/*
@@ -219,6 +221,7 @@
 *://*.vamtlgrm.com/*
 *://*.v-androide.com/*
 *://*.vannayasovety.ru/*
+*://*.varebux.ru/*
 *://*.vetpomoch.ru/*
 *://*.vibacht.ru/*
 *://*.videosolo.com/*
