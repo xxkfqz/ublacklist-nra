@@ -4,6 +4,7 @@
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
+*://*.adminunix.ru/*
 *://*.afishatop.ru/*
 *://*.ahaslides.com/*
 *://*.alfacasting.ru/*
@@ -134,6 +135,7 @@
 *://*.modsgames.ru/*
 *://*.mosproekty.ru/*
 *://*.mozaiyka.ru/*
+*://*.mundobytes.com/*
 *://*.mysolti.ru/*
 *://*.nardar.ru/*
 *://*.na-stolka.ru/*
@@ -201,12 +203,14 @@
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
+*://*.slavshkola.ru/*
 *://*.smartadm.ru/*
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
 *://*.soda102.ru/*
 *://*.sports.ru/*
 *://*.spy-soft.net/*
+*://*.ssldragon.com/*
 *://*.stalked.ru/*
 *://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
