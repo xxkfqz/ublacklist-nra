@@ -84,6 +84,7 @@
 *://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
 *://*.helpdoma.ru/*
+*://*.iaproger.ru/*
 *://*.ichip.ru/*
 *://*.ic-stroy.ru/*
 *://*.igry-gid.ru/*
