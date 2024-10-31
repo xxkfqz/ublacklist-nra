@@ -159,6 +159,7 @@
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
 *://*.otvet-pravda.ru/*
+*://*.outlooktransfer.com/*
 *://*.pathofexiles.ru/*
 *://*.pcminipro.ru/*
 *://*.penoblo.ru/*
@@ -209,6 +210,7 @@
 *://*.smiame.ru/*
 *://*.socialgurusphere.ru/*
 *://*.soda102.ru/*
+*://*.solutics.ru/*
 *://*.sports.ru/*
 *://*.spy-soft.net/*
 *://*.ssldragon.com/*
@@ -228,6 +230,7 @@
 *://*.technika-remont.ru/*
 *://*.telegramas.ru/*
 *://*.toadmin.ru/*
+*://*.triu.ru/*
 *://*.t-roc24.ru/*
 *://*.true-game.ru/*
 *://*.tvdigitally.ru/*
