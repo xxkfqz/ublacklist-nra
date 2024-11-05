@@ -4,6 +4,7 @@
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
+*://*.8host.com/*
 *://*.adminunix.ru/*
 *://*.afishatop.ru/*
 *://*.ahaslides.com/*
@@ -17,6 +18,7 @@
 *://*.answersearch.ru/*
 *://*.aquaznanie.ru/*
 *://*.arduino-tech.ru/*
+*://*.aspose.com/*
 *://*.autotuning.expert/*
 *://*.bazaznanie.ru/*
 *://*.baziudachi.ru/*
@@ -42,6 +44,7 @@
 *://*.daf-gas36.ru/*
 *://*.danovosty.ru/*
 *://*.dansay.ru/*
+*://*.ddok.ru/*
 *://*.deepcloud.ru/*
 *://*.deinfeuer.ru/*
 *://*.delresurs.ru/*
@@ -52,6 +55,7 @@
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
 *://*.dom-team.ru/*
+*://*.donshar.ru/*
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
 *://*.dudu-organic.ru/*
@@ -96,6 +100,7 @@
 *://*.ishyfaq.ru/*
 *://*.iskonspb.ru/*
 *://*.itigic.com/*
+*://*.itproffi.ru/*
 *://*.itsecforu.ru/*
 *://*.it-tehnik.ru/*
 *://*.ivablog.ru/*
@@ -119,6 +124,7 @@
 *://*.ledsshop.ru/*
 *://*.letsplayers.ru/*
 *://*.lifehacks.kyiv.ua/*
+*://*.linux-console.net/*
 *://*.lmzs.ru/*
 *://*.lukinews.ru/*
 *://*.madou21.ru/*
@@ -247,6 +253,7 @@
 *://*.videosolo.com/*
 *://*.vitavision.ru/*
 *://*.vsenotebooki.ru/*
+*://*.vseprolinux.ru/*
 *://*.vsetehpribory.ru/*
 *://*.ways4you.ru/*
 *://*.webznam.ru/*
