@@ -127,6 +127,7 @@
 *://*.linux-console.net/*
 *://*.lmzs.ru/*
 *://*.lukinews.ru/*
+*://*.lumpics.ru/*
 *://*.madou21.ru/*
 *://*.manikurista.ru/*
 *://*.marketingideas.ru/*
@@ -183,6 +184,7 @@
 *://*.prog-time.ru/*
 *://*.proogorodik.ru/*
 *://*.prospk.ru/*
+*://*.pscraft.ru/*
 *://*.qloudhost.com/*
 *://*.questquotient.ru/*
 *://*.raspberry3.ru/*
