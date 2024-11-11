@@ -157,6 +157,7 @@
 *://*.okcomfort.com/*
 *://*.omagnitolah.ru/*
 *://*.optpalto.ru/*
+*://*.orfographia.ru/*
 *://*.oshibkis.ru/*
 *://*.osta-nina.ru/*
 *://*.otlichaet.com/*
