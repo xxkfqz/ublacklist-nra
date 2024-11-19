@@ -137,6 +137,8 @@
 *://*.mediadoma.com/*
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
+*://*.megavtogal.com/*
+*://*.m-gamer.ru/*
 *://*.mikrotiklab.ru/*
 *://*.mizakona.ru/*
 *://*.mobilpiu.ru/*
@@ -264,6 +266,7 @@
 *://*.windoro.ru/*
 *://*.winitpro.ru/*
 *://*.wol.su/*
+*://*.world-stalkers.ru/*
 *://*.wotpack.ru/*
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
