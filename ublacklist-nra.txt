@@ -256,6 +256,7 @@
 *://*.vetpomoch.ru/*
 *://*.vibacht.ru/*
 *://*.videosolo.com/*
+*://*.vip-mods.ru/*
 *://*.vitavision.ru/*
 *://*.vsenotebooki.ru/*
 *://*.vseprolinux.ru/*
