@@ -137,6 +137,7 @@
 *://*.mediadoma.com/*
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
+*://*.megacritic.ru/*
 *://*.megavtogal.com/*
 *://*.m-gamer.ru/*
 *://*.mikrotiklab.ru/*
