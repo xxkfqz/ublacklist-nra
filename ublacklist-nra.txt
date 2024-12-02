@@ -16,6 +16,7 @@
 *://*.androidlime.ru/*
 *://*.androidtvbox.ru/*
 *://*.answersearch.ru/*
+*://*.aquaroleplay.ru/*
 *://*.aquaznanie.ru/*
 *://*.arduino-tech.ru/*
 *://*.aspose.com/*
@@ -82,6 +83,7 @@
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
 *://*.global-ocean.ru/*
+*://*.gmodz.ru/*
 *://*.god-rust.ru/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
@@ -104,6 +106,7 @@
 *://*.itsecforu.ru/*
 *://*.it-tehnik.ru/*
 *://*.ivablog.ru/*
+*://*.ivprave.ru/*
 *://*.japan-portal.ru/*
 *://*.joecomp.com/*
 *://*.journalovirus.ru/*
@@ -175,6 +178,7 @@
 *://*.pcminipro.ru/*
 *://*.penoblo.ru/*
 *://*.permyachok.ru/*
+*://*.playsector.ru/*
 *://*.pnevmogun.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
@@ -259,6 +263,7 @@
 *://*.videosolo.com/*
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
+*://*.votguide.ru/*
 *://*.vsenotebooki.ru/*
 *://*.vseprolinux.ru/*
 *://*.vsetehpribory.ru/*
@@ -270,6 +275,7 @@
 *://*.wol.su/*
 *://*.world-stalkers.ru/*
 *://*.wotpack.ru/*
+*://*.wowdream.ru/*
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
