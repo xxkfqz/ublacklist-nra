@@ -32,6 +32,7 @@
 *://*.browserplay.ru/*
 *://*.businesslike.ru/*
 *://*.byteblitzhub.ru/*
+*://*.caaac.org/*
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
 *://*.clite.ru/*
@@ -60,6 +61,7 @@
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
 *://*.dudu-organic.ru/*
+*://*.dvekoz.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
 *://*.elektrikexpert.ru/*
@@ -166,6 +168,7 @@
 *://*.orfographia.ru/*
 *://*.oshibkis.ru/*
 *://*.osta-nina.ru/*
+*://*.otdelka-remont.ru/*
 *://*.otlichaet.com/*
 *://*.otlichi.ru/*
 *://*.ottohome.ru/*
@@ -174,6 +177,7 @@
 *://*.otvetimfaq.ru/*
 *://*.otvet-pravda.ru/*
 *://*.outlooktransfer.com/*
+*://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
 *://*.pcminipro.ru/*
 *://*.penoblo.ru/*
@@ -241,6 +245,7 @@
 *://*.svoimirykamiinfo.ru/*
 *://*.svoy-vetrogenerator.ru/*
 *://*.sysadminium.ru/*
+*://*.taiga-taiga.ru/*
 *://*.techberg.ru/*
 *://*.technika66.ru/*
 *://*.technika-remont.ru/*
