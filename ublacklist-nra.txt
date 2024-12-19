@@ -61,6 +61,7 @@
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
 *://*.dudu-organic.ru/*
+*://*.dvax.ru/*
 *://*.dvekoz.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
@@ -147,6 +148,7 @@
 *://*.m-gamer.ru/*
 *://*.mikrotiklab.ru/*
 *://*.mizakona.ru/*
+*://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
 *://*.mosproekty.ru/*
