@@ -7,6 +7,7 @@
 *://*.8host.com/*
 *://*.adminunix.ru/*
 *://*.afishatop.ru/*
+*://*.agronom.expert/*
 *://*.ahaslides.com/*
 *://*.alfacasting.ru/*
 *://*.allmif.ru/*
@@ -93,6 +94,7 @@
 *://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
 *://*.helpdoma.ru/*
+*://*.http-wikipediya.ru/*
 *://*.iaproger.ru/*
 *://*.ichip.ru/*
 *://*.ic-stroy.ru/*
@@ -138,6 +140,7 @@
 *://*.manikurista.ru/*
 *://*.marketingideas.ru/*
 *://*.markouks.ru/*
+*://*.mebelniyguru.ru/*
 *://*.mebel-sovet.ru/*
 *://*.mechtarybolova.ru/*
 *://*.mediadoma.com/*
@@ -265,6 +268,7 @@
 *://*.v-androide.com/*
 *://*.vannayasovety.ru/*
 *://*.varebux.ru/*
+*://*.vego-kolbasa.ru/*
 *://*.vetpomoch.ru/*
 *://*.vibacht.ru/*
 *://*.videosolo.com/*
