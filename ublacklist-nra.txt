@@ -215,6 +215,7 @@
 *://*.ruclient.ru/*
 *://*.rudevice.ru/*
 *://*.rusadmin.biz/*
+*://*.russianblogs.com/*
 *://*.rutab.net/*
 *://*.rv-o.ru/*
 *://*.saharvnorme.ru/*
@@ -233,6 +234,7 @@
 *://*.slavshkola.ru/*
 *://*.smartadm.ru/*
 *://*.smiame.ru/*
+*://*.smokingzero.ru/*
 *://*.socialgurusphere.ru/*
 *://*.soda102.ru/*
 *://*.solutics.ru/*
@@ -262,6 +264,7 @@
 *://*.tvdigitally.ru/*
 *://*.ufokids.ru/*
 *://*.u-keramika.ru/*
+*://*.umniimir.ru/*
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
 *://*.vamtlgrm.com/*
