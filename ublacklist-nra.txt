@@ -11,6 +11,7 @@
 *://*.ahaslides.com/*
 *://*.alfacasting.ru/*
 *://*.allmif.ru/*
+*://*.allrecipe.ru/*
 *://*.alphr.com/*
 *://*.ampaints.ru/*
 *://*.androidinsider.ru/*
@@ -189,6 +190,7 @@
 *://*.permyachok.ru/*
 *://*.playsector.ru/*
 *://*.pnevmogun.ru/*
+*://*.pomoshnikguru.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
@@ -258,6 +260,7 @@
 *://*.technika-remont.ru/*
 *://*.telegramas.ru/*
 *://*.toadmin.ru/*
+*://*.treeofbonsai.ru/*
 *://*.triu.ru/*
 *://*.t-roc24.ru/*
 *://*.true-game.ru/*
