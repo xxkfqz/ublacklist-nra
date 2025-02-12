@@ -37,6 +37,7 @@
 *://*.caaac.org/*
 *://*.cervelo-russia.ru/*
 *://*.chistotnik.ru/*
+*://*.cigprice.ru/*
 *://*.clite.ru/*
 *://*.coderlessons.com/*
 *://*.comfort-kuhni.ru/*
@@ -87,6 +88,7 @@
 *://*.generals-cncrus.ru/*
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
+*://*.global-hotspot.ru/*
 *://*.global-ocean.ru/*
 *://*.gmodz.ru/*
 *://*.god-rust.ru/*
@@ -94,12 +96,14 @@
 *://*.goodvar.ru/*
 *://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
+*://*.gromkosti.ru/*
 *://*.helpdoma.ru/*
 *://*.http-wikipediya.ru/*
 *://*.iaproger.ru/*
 *://*.ichip.ru/*
 *://*.ic-stroy.ru/*
 *://*.igry-gid.ru/*
+*://*.ik63.ru/*
 *://*.imena-dlya-devochek.ru/*
 *://*.infokotiki.ru/*
 *://*.informationsecurityasia.com/*
@@ -141,6 +145,7 @@
 *://*.manikurista.ru/*
 *://*.marketingideas.ru/*
 *://*.markouks.ru/*
+*://*.masterspec61.ru/*
 *://*.mebelniyguru.ru/*
 *://*.mebel-sovet.ru/*
 *://*.mechtarybolova.ru/*
@@ -162,6 +167,7 @@
 *://*.nardar.ru/*
 *://*.na-stolka.ru/*
 *://*.needlewoman.ru/*
+*://*.newtarify.ru/*
 *://*.nokiagid.ru/*
 *://*.novochag.ru/*
 *://*.oarduino.ru/*
@@ -201,6 +207,7 @@
 *://*.profil-pro.ru/*
 *://*.profirk.ru/*
 *://*.prog-time.ru/*
+*://*.pronabludenie.com/*
 *://*.proogorodik.ru/*
 *://*.prospk.ru/*
 *://*.pscraft.ru/*
