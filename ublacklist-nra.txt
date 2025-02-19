@@ -359,5 +359,6 @@
 *://*.ygolok.ru/*
 *://*.yourknives.ru/*
 *://*.yug-upr.ru/*
+*://*.zakipyati.ru/*
 *://*.znaysad.ru/*
 *://*.zvenst.ru/*
