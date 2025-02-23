@@ -73,6 +73,7 @@
 *://*.diler-azhemak.ru/*
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
+*://*.domstrousam.ru/*
 *://*.dom-team.ru/*
 *://*.donshar.ru/*
 *://*.drevologia.ru/*
@@ -113,6 +114,7 @@
 *://*.greenwaysait.ru/*
 *://*.gromkosti.ru/*
 *://*.helpdoma.ru/*
+*://*.hozzi.ru/*
 *://*.http-wikipediya.ru/*
 *://*.iaproger.ru/*
 *://*.ichip.ru/*
@@ -186,6 +188,7 @@
 *://*.mundobytes.com/*
 *://*.mysolti.ru/*
 *://*.nardar.ru/*
+*://*.nashsovetik.ru/*
 *://*.na-stolka.ru/*
 *://*.needlewoman.ru/*
 *://*.newbedev.com/*
@@ -216,9 +219,11 @@
 *://*.pathofexiles.ru/*
 *://*.pcminipro.ru/*
 *://*.penoblo.ru/*
+*://*.perhim.ru/*
 *://*.permyachok.ru/*
 *://*.playsector.ru/*
 *://*.pnevmogun.ru/*
+*://pogprom.ru/*
 *://*.pomoshnikguru.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
@@ -253,6 +258,7 @@
 *://*.ratatum.com/*
 *://*.raznic.net/*
 *://*.raznicynet.com/*
+*://reabuilding.ru/*
 *://*.rebusnik.ru/*
 *://*.remcomphelp.ru/*
 *://*.remstroy.pro/*
@@ -284,6 +290,7 @@
 *://*.socialgurusphere.ru/*
 *://*.soda102.ru/*
 *://*.solutics.ru/*
+*://*.sovet.help/*
 *://*.sports.ru/*
 *://*.sprosi.pro/*
 *://*.spy-soft.net/*
@@ -316,6 +323,7 @@
 *://*.treeofbonsai.ru/*
 *://*.triu.ru/*
 *://*.t-roc24.ru/*
+*://*.trubarik.ru/*
 *://*.true-game.ru/*
 *://*.try2explore.com/*
 *://*.tvdigitally.ru/*
@@ -336,6 +344,7 @@
 *://*.videosolo.com/*
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
+*://vospari23.ru/*
 *://*.votguide.ru/*
 *://*.vsenotebooki.ru/*
 *://*.vseprolinux.ru/*
@@ -354,11 +363,14 @@
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
+*://xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
 *://*.yaznayotvet.ru/*
 *://*.ybierling.com/*
+*://*.yborka.online/*
 *://*.ygolok.ru/*
 *://*.yourknives.ru/*
 *://*.yug-upr.ru/*
 *://*.zakipyati.ru/*
+*://znatoki.org/*
 *://*.znaysad.ru/*
 *://*.zvenst.ru/*
