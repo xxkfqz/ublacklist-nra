@@ -225,7 +225,7 @@
 *://*.permyachok.ru/*
 *://*.playsector.ru/*
 *://*.pnevmogun.ru/*
-*://pogprom.ru/*
+*://*.pogprom.ru/*
 *://*.pomoshnikguru.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
@@ -260,7 +260,7 @@
 *://*.ratatum.com/*
 *://*.raznic.net/*
 *://*.raznicynet.com/*
-*://reabuilding.ru/*
+*://*.reabuilding.ru/*
 *://*.rebusnik.ru/*
 *://*.remcomphelp.ru/*
 *://*.remontka.com/*
@@ -348,7 +348,7 @@
 *://*.videosolo.com/*
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
-*://vospari23.ru/*
+*://*.vospari23.ru/*
 *://*.votguide.ru/*
 *://*.vsenotebooki.ru/*
 *://*.vseprolinux.ru/*
@@ -368,7 +368,7 @@
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
-*://xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
+*://*.xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
 *://*.yaznayotvet.ru/*
 *://*.ybierling.com/*
 *://*.yborka.online/*
@@ -376,6 +376,6 @@
 *://*.yourknives.ru/*
 *://*.yug-upr.ru/*
 *://*.zakipyati.ru/*
-*://znatoki.org/*
+*://*.znatoki.org/*
 *://*.znaysad.ru/*
 *://*.zvenst.ru/*
