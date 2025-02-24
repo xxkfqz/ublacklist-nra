@@ -87,6 +87,7 @@
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
 *://*.excel-plus.ru/*
+*://*.family-link.ru/*
 *://*.fateline.ru/*
 *://*.fedotova-school.ru/*
 *://*.fivefive.ru/*
@@ -184,6 +185,7 @@
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
 *://*.mosproekty.ru/*
+*://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
 *://*.mundobytes.com/*
 *://*.mysolti.ru/*
@@ -261,6 +263,7 @@
 *://reabuilding.ru/*
 *://*.rebusnik.ru/*
 *://*.remcomphelp.ru/*
+*://*.remontka.com/*
 *://*.remstroy.pro/*
 *://*.riseofkingdom.ru/*
 *://*.ruclient.ru/*
@@ -311,6 +314,7 @@
 *://*.svoimirykamiinfo.ru/*
 *://*.svoy-vetrogenerator.ru/*
 *://*.switch-case.ru/*
+*://*.syl.ru/*
 *://*.sysadminium.ru/*
 *://*.taiga-taiga.ru/*
 *://*.techarks.ru/*
@@ -358,6 +362,7 @@
 *://*.winitpro.ru/*
 *://*.wol.su/*
 *://*.world-stalkers.ru/*
+*://*.worlplay.ru/*
 *://*.wotpack.ru/*
 *://*.wowdream.ru/*
 *://*.xetsoft.ru/*
