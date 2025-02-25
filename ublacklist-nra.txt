@@ -80,6 +80,7 @@
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
 *://*.dudu-organic.ru/*
+*://*.dusterok.ru/*
 *://*.dvax.ru/*
 *://*.dvekoz.ru/*
 *://*.electroinfo.net/*
@@ -145,6 +146,8 @@
 *://*.japan-portal.ru/*
 *://*.joecomp.com/*
 *://*.journalovirus.ru/*
+*://*.juristyrus.ru/*
+*://*.kanalizaciyadoma.com/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
 *://*.katerinasokol.ru/*
@@ -192,6 +195,7 @@
 *://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
 *://*.mundobytes.com/*
+*://*.myinfo.by/*
 *://*.mysolti.ru/*
 *://*.nardar.ru/*
 *://*.nashsovetik.ru/*
@@ -360,6 +364,7 @@
 *://*.vospari23.ru/*
 *://*.votguide.ru/*
 *://*.vsenotebooki.ru/*
+*://*.vsepodomu.ru/*
 *://*.vseprolinux.ru/*
 *://*.vsetehpribory.ru/*
 *://*.ways4you.ru/*
