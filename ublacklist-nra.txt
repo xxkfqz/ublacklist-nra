@@ -147,6 +147,7 @@
 *://*.joecomp.com/*
 *://*.journalovirus.ru/*
 *://*.juristyrus.ru/*
+*://*.jurnalshtori.ru/*
 *://*.kanalizaciyadoma.com/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
@@ -211,6 +212,7 @@
 *://*.ok15.ru/*
 *://*.okcomfort.com/*
 *://*.omagnitolah.ru/*
+*://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
 *://*.orfographia.ru/*
 *://*.oshibkis.ru/*
