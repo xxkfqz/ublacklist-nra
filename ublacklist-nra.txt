@@ -186,6 +186,7 @@
 *://*.media-player-s.ru/*
 *://*.megacritic.ru/*
 *://*.megavtogal.com/*
+*://*.metalloy.ru/*
 *://*.m-gamer.ru/*
 *://*.mikrotiklab.ru/*
 *://*.mizakona.ru/*
