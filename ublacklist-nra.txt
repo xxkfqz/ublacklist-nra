@@ -86,6 +86,7 @@
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
 *://*.elektrikexpert.ru/*
+*://*.elektropraktika.ru/*
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
 *://*.excel-plus.ru/*
