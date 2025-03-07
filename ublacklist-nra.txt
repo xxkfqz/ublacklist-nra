@@ -241,6 +241,7 @@
 *://*.pnevmogun.ru/*
 *://*.pogprom.ru/*
 *://*.pomoshnikguru.ru/*
+*://*.poptechno.ru/*
 *://*.poshtukaturke.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
@@ -309,6 +310,7 @@
 *://*.soda102.ru/*
 *://*.solutics.ru/*
 *://*.sovet.help/*
+*://*.spechmashural.ru/*
 *://*.sports.ru/*
 *://*.spravochnick.ru/*
 *://*.sprosi.pro/*
@@ -338,6 +340,7 @@
 *://*.technika66.ru/*
 *://*.technika-remont.ru/*
 *://*.telegramas.ru/*
+*://*.tellsmart.ru/*
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
@@ -376,6 +379,7 @@
 *://*.webznam.ru/*
 *://*.wikiroot.ru/*
 *://*.willi-mos.ru/*
+*://*.winda10.com/*
 *://*.windoro.ru/*
 *://*.winitpro.ru/*
 *://*.wol.su/*
