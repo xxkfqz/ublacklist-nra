@@ -121,6 +121,7 @@
 *://*.greenwaysait.ru/*
 *://*.gromkosti.ru/*
 *://*.helpdoma.ru/*
+*://*.hozyaykin.ru/*
 *://*.hozzi.ru/*
 *://*.http-wikipediya.ru/*
 *://*.iaproger.ru/*
