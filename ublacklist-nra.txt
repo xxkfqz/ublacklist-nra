@@ -4,6 +4,7 @@
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
+*://*.7flamme.com/*
 *://*.8host.com/*
 *://*.adminunix.ru/*
 *://*.afishatop.ru/*
@@ -11,6 +12,7 @@
 *://*.ahaslides.com/*
 *://*.alfacasting.ru/*
 *://*.allmif.ru/*
+*://*.allpetnames.ru/*
 *://*.allrecipe.ru/*
 *://*.alphr.com/*
 *://*.ampaints.ru/*
@@ -91,6 +93,7 @@
 *://*.eschemo.ru/*
 *://*.excel-plus.ru/*
 *://*.family-link.ru/*
+*://*.faqguru.ru/*
 *://*.fateline.ru/*
 *://*.fedotova-school.ru/*
 *://*.fivefive.ru/*
@@ -165,6 +168,7 @@
 *://*.koshkiwiki.ru/*
 *://*.kotikiinfo.ru/*
 *://*.ladyelena.ru/*
+*://*.laseris.ru/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.legkovopros.ru/*
@@ -248,6 +252,7 @@
 *://*.powerdmarc.com/*
 *://*.poweruser.guru/*
 *://*.powerusergu.ru/*
+*://*.prime-name.ru/*
 *://*.proantab.ru/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
@@ -294,6 +299,7 @@
 *://*.samodelino.ru/*
 *://*.scbiinfrastruktura.ru/*
 *://*.semenaforum.ru/*
+*://*.semfamily.ru/*
 *://*.serveradmin.ru/*
 *://*.servicebox.ru/*
 *://*.setafi.com/*
