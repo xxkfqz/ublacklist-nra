@@ -34,6 +34,7 @@
 *://*.beltapki.ru/*
 *://*.benams.ru/*
 *://*.bestofreactjs.com/*
+*://*.biz-ideia.ru/*
 *://*.bkfc.ru/*
 *://*.blits-air.ru/*
 *://*.blogrunet.ru/*
@@ -153,6 +154,9 @@
 *://*.journalovirus.ru/*
 *://*.juristyrus.ru/*
 *://*.jurnalshtori.ru/*
+*://*.jur-spor.ru/*
+*://*.kabinet-energosbyta.ru/*
+*://*.kabinet-mgts.ru/*
 *://*.kanalizaciyadoma.com/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
@@ -222,6 +226,8 @@
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
 *://*.orfographia.ru/*
+*://*.oshibaetsya.ru/*
+*://*.oshibkin.ru/*
 *://*.oshibkis.ru/*
 *://*.osta-nina.ru/*
 *://*.otdelka-remont.ru/*
@@ -244,6 +250,7 @@
 *://*.playmap.ru/*
 *://*.playsector.ru/*
 *://*.pnevmogun.ru/*
+*://*.pobeda1945-art.ru/*
 *://*.pogprom.ru/*
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
@@ -315,6 +322,7 @@
 *://*.smokingzero.ru/*
 *://*.socialgurusphere.ru/*
 *://*.soda102.ru/*
+*://*.soloby.ru/*
 *://*.solutics.ru/*
 *://*.sovet.help/*
 *://*.spechmashural.ru/*
@@ -405,6 +413,7 @@
 *://*.ygolok.ru/*
 *://*.yourknives.ru/*
 *://*.yug-upr.ru/*
+*://*.zaimi.ru/*
 *://*.zakipyati.ru/*
 *://*.znatoki.org/*
 *://*.znaysad.ru/*
