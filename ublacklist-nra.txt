@@ -97,6 +97,7 @@
 *://*.faqguru.ru/*
 *://*.fateline.ru/*
 *://*.fedotova-school.ru/*
+*://*.fenix.help/*
 *://*.fivefive.ru/*
 *://*.fizika-ili-himija.ru/*
 *://*.foecity.ru/*
@@ -209,6 +210,7 @@
 *://*.mundobytes.com/*
 *://*.myinfo.by/*
 *://*.mysolti.ru/*
+*://*.napishem.ru/*
 *://*.nardar.ru/*
 *://*.nashsovetik.ru/*
 *://*.na-stolka.ru/*
@@ -218,6 +220,7 @@
 *://*.nokiagid.ru/*
 *://*.novochag.ru/*
 *://*.oarduino.ru/*
+*://*.obrazovaka.ru/*
 *://*.obzorposudy.ru/*
 *://*.o-dveryah.ru/*
 *://*.ok15.ru/*
@@ -380,6 +383,7 @@
 *://*.varebux.ru/*
 *://*.vego-kolbasa.ru/*
 *://*.vetpomoch.ru/*
+*://*.vfinansah.com/*
 *://*.vibacht.ru/*
 *://*.videosolo.com/*
 *://*.vip-mods.ru/*
