@@ -215,6 +215,7 @@
 *://*.nashsovetik.ru/*
 *://*.na-stolka.ru/*
 *://*.needlewoman.ru/*
+*://*.netpapillomy.ru/*
 *://*.newbedev.com/*
 *://*.newtarify.ru/*
 *://*.nokiagid.ru/*
@@ -294,6 +295,7 @@
 *://*.rbkgames.com/*
 *://*.reabuilding.ru/*
 *://*.rebusnik.ru/*
+*://*.recepti-pro.ru/*
 *://*.remcomphelp.ru/*
 *://*.remontka.com/*
 *://*.remstroy.pro/*
@@ -340,6 +342,7 @@
 *://*.stackoverrun.com/*
 *://*.stackru.com/*
 *://*.stalked.ru/*
+*://*.stalker-blog.ru/*
 *://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
 *://*.strouy.ru/*
