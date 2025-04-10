@@ -163,6 +163,7 @@
 *://*.kashingdk.ru/*
 *://*.katerinasokol.ru/*
 *://*.khokku.ru/*
+*://*.kli-games.ru/*
 *://*.k-m-b.ru/*
 *://*.kolonka31.ru/*
 *://*.kompsekret.ru/*
