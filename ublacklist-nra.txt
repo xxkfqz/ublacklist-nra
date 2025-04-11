@@ -215,6 +215,7 @@
 *://*.nardar.ru/*
 *://*.nashsovetik.ru/*
 *://*.na-stolka.ru/*
+*://*.nastroy.net/*
 *://*.needlewoman.ru/*
 *://*.netpapillomy.ru/*
 *://*.newbedev.com/*
@@ -357,6 +358,7 @@
 *://*.syl.ru/*
 *://*.sysadminium.ru/*
 *://*.taiga-taiga.ru/*
+*://*.tatsud.ru/*
 *://*.techarks.ru/*
 *://*.techberg.ru/*
 *://*.technika66.ru/*
