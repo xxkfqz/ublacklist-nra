@@ -19,3 +19,5 @@ https://raw.githubusercontent.com/xxkfqz/ublacklist-nra/master/ublacklist-nra.tx
 # Прочее
 
 * [Другие списки](https://iorate.github.io/ublacklist/subscriptions)
+* [awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist)
+* [nicoles-ublacklist](https://github.com/nicoleahmed/nicoles-ublacklist/)
