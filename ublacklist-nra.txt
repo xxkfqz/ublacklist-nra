@@ -106,8 +106,10 @@
 *://*.fresh-dealer.ru/*
 *://*.fsnslnr.su/*
 *://*.gamaem.ru/*
+*://*.gameawards.ru/*
 *://*.gamefans.ru/*
 *://*.gamegude.com/*
+*://*.game-lands.ru/*
 *://*.gamere.ru/*
 *://*.gamersguide.ru/*
 *://*.gdostavka.ru/*
@@ -229,6 +231,7 @@
 *://*.ok15.ru/*
 *://*.okcomfort.com/*
 *://*.omagnitolah.ru/*
+*://*.online-fix.me/*
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
 *://*.orfographia.ru/*
@@ -301,6 +304,7 @@
 *://*.remcomphelp.ru/*
 *://*.remontka.com/*
 *://*.remstroy.pro/*
+*://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
 *://*.ruclient.ru/*
 *://*.rudevice.ru/*
@@ -347,6 +351,7 @@
 *://*.stalker-blog.ru/*
 *://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
+*://*.strategycon.ru/*
 *://*.strouy.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
@@ -413,6 +418,7 @@
 *://*.worlplay.ru/*
 *://*.wotpack.ru/*
 *://*.wowdream.ru/*
+*://*.wowmoon.ru/*
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
