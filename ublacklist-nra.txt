@@ -6,6 +6,7 @@
 *://*.4bitrix.ru/*
 *://*.7flamme.com/*
 *://*.8host.com/*
+*://*.ac-orbita.ru/*
 *://*.adminunix.ru/*
 *://*.afishatop.ru/*
 *://*.agronom.expert/*
@@ -56,6 +57,7 @@
 *://*.coderlessons.com/*
 *://*.coderoad.ru/*
 *://*.comfort-kuhni.ru/*
+*://*.comp-lenta.ru/*
 *://*.comp-security.net/*
 *://*.copyprogramming.com/*
 *://*.coredump.biz/*
@@ -77,6 +79,7 @@
 *://*.diler-azhemak.ru/*
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
+*://*.doma35.ru/*
 *://*.domstrousam.ru/*
 *://*.dom-team.ru/*
 *://*.donshar.ru/*
@@ -201,6 +204,7 @@
 *://*.megacritic.ru/*
 *://*.megavtogal.com/*
 *://*.metalloy.ru/*
+*://*.mfgrobots.com/*
 *://*.m-gamer.ru/*
 *://*.mikrotiklab.ru/*
 *://*.mizakona.ru/*
@@ -370,6 +374,7 @@
 *://*.technika-remont.ru/*
 *://*.telegramas.ru/*
 *://*.tellsmart.ru/*
+*://*.teogame.ru/*
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
