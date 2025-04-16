@@ -103,6 +103,7 @@
 *://*.fenix.help/*
 *://*.fivefive.ru/*
 *://*.fizika-ili-himija.ru/*
+*://*.fobosworld.ru/*
 *://*.foecity.ru/*
 *://*.fonarhotel.ru/*
 *://*.fooobar.com/*
@@ -131,6 +132,7 @@
 *://*.greenwaysait.ru/*
 *://*.gromkosti.ru/*
 *://*.helpdoma.ru/*
+*://*.hololenses.ru/*
 *://*.hozyaykin.ru/*
 *://*.hozzi.ru/*
 *://*.http-wikipediya.ru/*
@@ -195,6 +197,7 @@
 *://*.marketingideas.ru/*
 *://*.markouks.ru/*
 *://*.masterspec61.ru/*
+*://*.m-blesk.ru/*
 *://*.mebelniyguru.ru/*
 *://*.mebel-sovet.ru/*
 *://*.mechtarybolova.ru/*
@@ -297,6 +300,7 @@
 *://*.question-it.com/*
 *://*.questquotient.ru/*
 *://*.questu.ru/*
+*://*.ra-dina.ru/*
 *://*.raspberry3.ru/*
 *://*.ratatum.com/*
 *://*.raznic.net/*
@@ -308,6 +312,7 @@
 *://*.remcomphelp.ru/*
 *://*.remontka.com/*
 *://*.remstroy.pro/*
+*://*.restcompany.ru/*
 *://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
 *://*.ruclient.ru/*
