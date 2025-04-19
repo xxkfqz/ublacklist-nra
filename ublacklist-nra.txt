@@ -205,6 +205,7 @@
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
 *://*.megacritic.ru/*
+*://*.megamaster.su/*
 *://*.megavtogal.com/*
 *://*.metalloy.ru/*
 *://*.mfgrobots.com/*
@@ -262,6 +263,7 @@
 *://*.penoblo.ru/*
 *://*.perhim.ru/*
 *://*.permyachok.ru/*
+*://*.pigsshop.ru/*
 *://*.plarium.com/*
 *://*.playmap.ru/*
 *://*.playsector.ru/*
@@ -285,6 +287,7 @@
 *://*.prog-time.ru/*
 *://*.pronabludenie.com/*
 *://*.proogorodik.ru/*
+*://*.propaiku.ru/*
 *://*.prospk.ru/*
 *://*.proubuntu.ru/*
 *://*.pscraft.ru/*
@@ -311,6 +314,8 @@
 *://*.recepti-pro.ru/*
 *://*.remcomphelp.ru/*
 *://*.remontka.com/*
+*://*.remontoteka.net/*
+*://*.rem-sovet.ru/*
 *://*.remstroy.pro/*
 *://*.restcompany.ru/*
 *://*.riotbits.com/*
@@ -383,6 +388,7 @@
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
+*://*.traiv-komplekt.ru/*
 *://*.treeofbonsai.ru/*
 *://*.triu.ru/*
 *://*.t-roc24.ru/*
