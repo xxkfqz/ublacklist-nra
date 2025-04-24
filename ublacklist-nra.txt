@@ -101,6 +101,7 @@
 *://*.fateline.ru/*
 *://*.fedotova-school.ru/*
 *://*.fenix.help/*
+*://*.fileext.info/*
 *://*.fivefive.ru/*
 *://*.fizika-ili-himija.ru/*
 *://*.fobosworld.ru/*
@@ -116,6 +117,7 @@
 *://*.game-lands.ru/*
 *://*.gamere.ru/*
 *://*.gamersguide.ru/*
+*://*.gbiznesblog.ru/*
 *://*.gdostavka.ru/*
 *://*.geekville.ru/*
 *://*.genapilot.ru/*
@@ -128,6 +130,7 @@
 *://*.god-rust.ru/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
+*://*.grandars.ru/*
 *://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
 *://*.gromkosti.ru/*
@@ -143,6 +146,7 @@
 *://*.igry-gid.ru/*
 *://*.ik63.ru/*
 *://*.imena-dlya-devochek.ru/*
+*://*.infoeng.ru/*
 *://*.infokotiki.ru/*
 *://*.informationsecurityasia.com/*
 *://*.investim.guru/*
@@ -320,6 +324,7 @@
 *://*.restcompany.ru/*
 *://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
+*://*.roskod.ru/*
 *://*.ruclient.ru/*
 *://*.rudevice.ru/*
 *://*.rugeek.ru/*
@@ -385,6 +390,7 @@
 *://*.telegramas.ru/*
 *://*.tellsmart.ru/*
 *://*.teogame.ru/*
+*://*.tests-english.com/*
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
