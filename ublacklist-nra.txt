@@ -45,6 +45,8 @@
 *://*.byteblitzhub.ru/*
 *://*.caaac.org/*
 *://*.cervelo-russia.ru/*
+*://*.champion56.ru/*
+*://*.chastnyj-seospecialist.ru/*
 *://*.chistotnik.ru/*
 *://*.cigprice.ru/*
 *://*.clite.ru/*
@@ -80,6 +82,7 @@
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
 *://*.doma35.ru/*
+*://*.domovodinfo.ru/*
 *://*.domstrousam.ru/*
 *://*.dom-team.ru/*
 *://*.donshar.ru/*
@@ -127,6 +130,7 @@
 *://*.global-hotspot.ru/*
 *://*.global-ocean.ru/*
 *://*.gmodz.ru/*
+*://*.gnw.su/*
 *://*.god-rust.ru/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
@@ -259,6 +263,7 @@
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
 *://*.otvet-pravda.ru/*
+*://*.otzyvmarketing.ru/*
 *://*.outlooktransfer.com/*
 *://*.overcoder.net/*
 *://*.parketspektr.ru/*
@@ -292,6 +297,7 @@
 *://*.pronabludenie.com/*
 *://*.proogorodik.ru/*
 *://*.propaiku.ru/*
+*://*.proporodysobak.ru/*
 *://*.prospk.ru/*
 *://*.proubuntu.ru/*
 *://*.pscraft.ru/*
@@ -335,6 +341,7 @@
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
 *://*.scbiinfrastruktura.ru/*
+*://*.sdelatrykami.ru/*
 *://*.semenaforum.ru/*
 *://*.semfamily.ru/*
 *://*.serveradmin.ru/*
@@ -385,6 +392,7 @@
 *://*.tatsud.ru/*
 *://*.techarks.ru/*
 *://*.techberg.ru/*
+*://*.techbriefly.com/*
 *://*.technika66.ru/*
 *://*.technika-remont.ru/*
 *://*.telegramas.ru/*
