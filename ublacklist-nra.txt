@@ -74,6 +74,7 @@
 *://*.deepcloud.ru/*
 *://*.deinfeuer.ru/*
 *://*.delresurs.ru/*
+*://*.desdelinux.net/*
 *://*.devicetip.ru/*
 *://*.dezinfekc.ru/*
 *://*.diablo1.ru/*
@@ -411,6 +412,7 @@
 *://*.try2explore.com/*
 *://*.tsaristrussia.ru/*
 *://*.tvdigitally.ru/*
+*://*.ubunlog.com/*
 *://*.ubuntugeeks.com/*
 *://*.ufokids.ru/*
 *://*.u-keramika.ru/*
