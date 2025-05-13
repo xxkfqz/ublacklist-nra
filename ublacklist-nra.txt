@@ -24,6 +24,7 @@
 *://*.answersearch.ru/*
 *://*.aquaroleplay.ru/*
 *://*.aquaznanie.ru/*
+*://*.ar37.ru/*
 *://*.arduino-tech.ru/*
 *://*.askdev.ru/*
 *://*.askubuntu.ru/*
@@ -48,7 +49,9 @@
 *://*.champion56.ru/*
 *://*.chastnyj-seospecialist.ru/*
 *://*.chistotnik.ru/*
+*://*.chistsovet.ru/*
 *://*.cigprice.ru/*
+*://*.cleanpedia.ru/*
 *://*.clite.ru/*
 *://*.club-cs.ru/*
 *://*.code-examples.net/*
@@ -63,6 +66,7 @@
 *://*.comp-security.net/*
 *://*.copyprogramming.com/*
 *://*.coredump.biz/*
+*://*.cpdshel.ru/*
 *://*.cq.ru/*
 *://*.crast.net/*
 *://*.cubiq.ru/*
@@ -71,6 +75,7 @@
 *://*.danovosty.ru/*
 *://*.dansay.ru/*
 *://*.ddok.ru/*
+*://*.dedpodaril.com/*
 *://*.deepcloud.ru/*
 *://*.deinfeuer.ru/*
 *://*.delresurs.ru/*
@@ -87,6 +92,7 @@
 *://*.domstrousam.ru/*
 *://*.dom-team.ru/*
 *://*.donshar.ru/*
+*://*.dragomet.com/*
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
 *://*.dudu-organic.ru/*
@@ -133,6 +139,7 @@
 *://*.gmodz.ru/*
 *://*.gnw.su/*
 *://*.god-rust.ru/*
+*://*.goldadvert.com/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
 *://*.grandars.ru/*
@@ -141,6 +148,8 @@
 *://*.gromkosti.ru/*
 *://*.helpdoma.ru/*
 *://*.hololenses.ru/*
+*://*.hozinfo.ru/*
+*://*.hozpedia.ru/*
 *://*.hozyaykin.ru/*
 *://*.hozzi.ru/*
 *://*.http-wikipediya.ru/*
@@ -197,6 +206,7 @@
 *://*.letsplayers.ru/*
 *://*.lifehacks.kyiv.ua/*
 *://*.linux-console.net/*
+*://*.litmap.ru/*
 *://*.living-sun.com/*
 *://*.lmzs.ru/*
 *://*.lukinews.ru/*
@@ -224,6 +234,7 @@
 *://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
+*://*.monety.in.ua/*
 *://*.mosproekty.ru/*
 *://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
@@ -271,6 +282,7 @@
 *://*.pathofexiles.ru/*
 *://*.pcminipro.ru/*
 *://*.penoblo.ru/*
+*://*.perepolokh.ru/*
 *://*.perhim.ru/*
 *://*.permyachok.ru/*
 *://*.pigsshop.ru/*
@@ -279,6 +291,7 @@
 *://*.playsector.ru/*
 *://*.pnevmogun.ru/*
 *://*.pobeda1945-art.ru/*
+*://*.pochistit.ru/*
 *://*.pogprom.ru/*
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
@@ -296,6 +309,7 @@
 *://*.progi.pro/*
 *://*.prog-time.ru/*
 *://*.pronabludenie.com/*
+*://*.pronakip.com/*
 *://*.proogorodik.ru/*
 *://*.propaiku.ru/*
 *://*.proporodysobak.ru/*
@@ -308,6 +322,7 @@
 *://*.qarchive.ru/*
 *://*.qarus.ru/*
 *://*.qastack.ru/*
+*://*.qlean.ru/*
 *://*.qloudhost.com/*
 *://*.quabr.com/*
 *://*.quares.ru/*
@@ -378,10 +393,12 @@
 *://*.stalker-blog.ru/*
 *://*.stalnoy-dekor.ru/*
 *://*.steamshared.ru/*
+*://*.stolyar-26.ru/*
 *://*.strategycon.ru/*
 *://*.strouy.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
+*://*.sunmag.me/*
 *://*.supersoda.ru/*
 *://*.svoimirukamivse.ru/*
 *://*.svoimirykamiinfo.ru/*
@@ -412,6 +429,7 @@
 *://*.try2explore.com/*
 *://*.tsaristrussia.ru/*
 *://*.tvdigitally.ru/*
+*://*.uborka.co/*
 *://*.ubunlog.com/*
 *://*.ubuntugeeks.com/*
 *://*.ufokids.ru/*
@@ -440,12 +458,15 @@
 *://*.ways4you.ru/*
 *://*.web-answers.ru/*
 *://*.webznam.ru/*
+*://*.welcometochef.ru/*
 *://*.wikiroot.ru/*
 *://*.willi-mos.ru/*
 *://*.winda10.com/*
 *://*.windoro.ru/*
 *://*.winitpro.ru/*
+*://*.wisto.ru/*
 *://*.wol.su/*
+*://*.womenburg.ru/*
 *://*.world-stalkers.ru/*
 *://*.worlplay.ru/*
 *://*.wotpack.ru/*
@@ -455,12 +476,15 @@
 *://*.xiaomi-1.ru/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
 *://*.xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
+*://*.xn--e1agsbgdeid7b.xn--p1ai/*
+*://*.yacollectioner.ru/*
 *://*.yaznayotvet.ru/*
 *://*.ybierling.com/*
 *://*.yborka.online/*
 *://*.ygolok.ru/*
 *://*.yourknives.ru/*
 *://*.yug-upr.ru/*
+*://*.zahidknyha.com.ua/*
 *://*.zaimi.ru/*
 *://*.zakipyati.ru/*
 *://*.znatoki.org/*
