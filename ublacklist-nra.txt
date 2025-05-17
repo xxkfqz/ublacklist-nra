@@ -183,6 +183,7 @@
 *://*.jur-spor.ru/*
 *://*.kabinet-energosbyta.ru/*
 *://*.kabinet-mgts.ru/*
+*://*.kamushkiguru.ru/*
 *://*.kanalizaciyadoma.com/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
