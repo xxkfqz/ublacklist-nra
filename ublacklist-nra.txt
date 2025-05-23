@@ -99,6 +99,7 @@
 *://*.dusterok.ru/*
 *://*.dvax.ru/*
 *://*.dvekoz.ru/*
+*://*.easydoit.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
 *://*.elektrikexpert.ru/*
@@ -215,6 +216,7 @@
 *://*.madou21.ru/*
 *://*.manikurista.ru/*
 *://*.marketingideas.ru/*
+*://*.market-smm.pro/*
 *://*.markouks.ru/*
 *://*.masterspec61.ru/*
 *://*.m-blesk.ru/*
@@ -393,6 +395,7 @@
 *://*.stalked.ru/*
 *://*.stalker-blog.ru/*
 *://*.stalnoy-dekor.ru/*
+*://*.statisticseasily.com/*
 *://*.steamshared.ru/*
 *://*.stolyar-26.ru/*
 *://*.strategycon.ru/*
@@ -418,6 +421,8 @@
 *://*.tellsmart.ru/*
 *://*.teogame.ru/*
 *://*.tests-english.com/*
+*://*.tgfaq.com/*
+*://*.tgme.pro/*
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
@@ -438,6 +443,7 @@
 *://*.umniimir.ru/*
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
+*://*.urfix.ru/*
 *://*.utyatnishna.ru/*
 *://*.vamtlgrm.com/*
 *://*.v-androide.com/*
