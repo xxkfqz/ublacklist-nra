@@ -100,6 +100,7 @@
 *://*.dvax.ru/*
 *://*.dvekoz.ru/*
 *://*.easydoit.ru/*
+*://*.e-cighub.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
 *://*.elektrikexpert.ru/*
@@ -281,6 +282,7 @@
 *://*.otzyvmarketing.ru/*
 *://*.outlooktransfer.com/*
 *://*.overcoder.net/*
+*://*.ozerokarachi.ru/*
 *://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
 *://*.pcminipro.ru/*
