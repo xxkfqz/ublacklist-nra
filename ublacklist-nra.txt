@@ -33,6 +33,7 @@
 *://*.askvoprosy.com/*
 *://*.aspose.com/*
 *://*.autotuning.expert/*
+*://*.avtomotoprof.ru/*
 *://*.bazaznanie.ru/*
 *://*.baziudachi.ru/*
 *://*.beltapki.ru/*
@@ -210,6 +211,7 @@
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.legkovopros.ru/*
+*://*.lepkomplekt.ru/*
 *://*.letsplayers.ru/*
 *://*.lifehacks.kyiv.ua/*
 *://*.linux-console.net/*
@@ -255,6 +257,7 @@
 *://*.na-stolka.ru/*
 *://*.nastroy.net/*
 *://*.needlewoman.ru/*
+*://*.nefte-gaz.info/*
 *://*.netpapillomy.ru/*
 *://*.newbedev.com/*
 *://*.newtarify.ru/*
@@ -271,6 +274,7 @@
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
 *://*.orfographia.ru/*
+*://*.orilmi.ru/*
 *://*.oshibaetsya.ru/*
 *://*.oshibkin.ru/*
 *://*.oshibkis.ru/*
@@ -292,6 +296,7 @@
 *://*.pcminipro.ru/*
 *://*.p-dip.ru/*
 *://*.penoblo.ru/*
+*://*.peredelka38.ru/*
 *://*.perepolokh.ru/*
 *://*.perhim.ru/*
 *://*.permyachok.ru/*
@@ -324,6 +329,7 @@
 *://*.proogorodik.ru/*
 *://*.propaiku.ru/*
 *://*.proporodysobak.ru/*
+*://*.prosmazku.ru/*
 *://*.prospk.ru/*
 *://*.proubuntu.ru/*
 *://*.pscraft.ru/*
@@ -458,6 +464,7 @@
 *://*.vannayasovety.ru/*
 *://*.varebux.ru/*
 *://*.vego-kolbasa.ru/*
+*://*.veloinsider.ru/*
 *://*.vetpomoch.ru/*
 *://*.vfinansah.com/*
 *://*.vibacht.ru/*
