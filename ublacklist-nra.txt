@@ -5,8 +5,10 @@
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
 *://*.7flamme.com/*
+*://*.7gear.ru/*
 *://*.8host.com/*
 *://*.ac-orbita.ru/*
+*://*.acums.ru/*
 *://*.adminunix.ru/*
 *://*.afishatop.ru/*
 *://*.agronom.expert/*
@@ -45,6 +47,7 @@
 *://*.businesslike.ru/*
 *://*.byteblitzhub.ru/*
 *://*.caaac.org/*
+*://*.carleys.ru/*
 *://*.cervelo-russia.ru/*
 *://*.champion56.ru/*
 *://*.chastnyj-seospecialist.ru/*
@@ -88,6 +91,7 @@
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
 *://*.doma35.ru/*
+*://*.domoticzfaq.ru/*
 *://*.domovodinfo.ru/*
 *://*.domstrousam.ru/*
 *://*.dom-team.ru/*
@@ -286,6 +290,7 @@
 *://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
 *://*.pcminipro.ru/*
+*://*.p-dip.ru/*
 *://*.penoblo.ru/*
 *://*.perepolokh.ru/*
 *://*.perhim.ru/*
@@ -307,6 +312,7 @@
 *://*.powerusergu.ru/*
 *://*.prime-name.ru/*
 *://*.proantab.ru/*
+*://*.probitteh.ru/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
 *://*.profil-pro.ru/*
