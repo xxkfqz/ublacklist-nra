@@ -119,8 +119,10 @@
 *://*.fedotova-school.ru/*
 *://*.fenix.help/*
 *://*.fileext.info/*
+*://*.fishki.net/*
 *://*.fivefive.ru/*
 *://*.fizika-ili-himija.ru/*
+*://*.flatters.ru/*
 *://*.fobosworld.ru/*
 *://*.foecity.ru/*
 *://*.fonarhotel.ru/*
@@ -172,6 +174,7 @@
 *://*.informationsecurityasia.com/*
 *://*.investim.guru/*
 *://*.iro-yar.ru/*
+*://*.ishvetsov.ru/*
 *://*.ishyfaq.ru/*
 *://*.iskonspb.ru/*
 *://*.issue.life/*
@@ -442,6 +445,7 @@
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
 *://*.traiv-komplekt.ru/*
+*://*.travel-global.ru/*
 *://*.treeofbonsai.ru/*
 *://*.triu.ru/*
 *://*.t-roc24.ru/*
