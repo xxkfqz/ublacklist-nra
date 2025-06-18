@@ -18,6 +18,7 @@
 *://*.allpetnames.ru/*
 *://*.allrecipe.ru/*
 *://*.alphr.com/*
+*://*.alt-a.ru/*
 *://*.ampaints.ru/*
 *://*.androidinsider.ru/*
 *://*.androidlime.ru/*
@@ -283,6 +284,7 @@
 *://*.oshibkis.ru/*
 *://*.osta-nina.ru/*
 *://*.otdelka-remont.ru/*
+*://*.oterraria.ru/*
 *://*.otlichaet.com/*
 *://*.otlichi.ru/*
 *://*.ottohome.ru/*
@@ -318,6 +320,7 @@
 *://*.powerdmarc.com/*
 *://*.poweruser.guru/*
 *://*.powerusergu.ru/*
+*://*.premtanks.ru/*
 *://*.prime-name.ru/*
 *://*.proantab.ru/*
 *://*.probitteh.ru/*
