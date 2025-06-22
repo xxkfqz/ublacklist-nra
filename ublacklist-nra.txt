@@ -13,6 +13,7 @@
 *://*.afishatop.ru/*
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
+*://*.alexhost.com/*
 *://*.alfacasting.ru/*
 *://*.allmif.ru/*
 *://*.allpetnames.ru/*
@@ -40,6 +41,7 @@
 *://*.beltapki.ru/*
 *://*.benams.ru/*
 *://*.bestofreactjs.com/*
+*://*.bisv.ru/*
 *://*.biz-ideia.ru/*
 *://*.bkfc.ru/*
 *://*.blits-air.ru/*
@@ -77,6 +79,7 @@
 *://*.cubiq.ru/*
 *://*.czarsafe.ru/*
 *://*.daf-gas36.ru/*
+*://*.danimals.ru/*
 *://*.danovosty.ru/*
 *://*.dansay.ru/*
 *://*.ddok.ru/*
@@ -173,7 +176,9 @@
 *://*.infoeng.ru/*
 *://*.infokotiki.ru/*
 *://*.informationsecurityasia.com/*
+*://*.instruk24.ru/*
 *://*.investim.guru/*
+*://*.ip-calculator.ru/*
 *://*.iro-yar.ru/*
 *://*.ishvetsov.ru/*
 *://*.ishyfaq.ru/*
