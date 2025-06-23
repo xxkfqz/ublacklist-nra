@@ -4,6 +4,7 @@
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
+*://*.5pet.ru/*
 *://*.7flamme.com/*
 *://*.7gear.ru/*
 *://*.8host.com/*
@@ -91,6 +92,7 @@
 *://*.devicetip.ru/*
 *://*.dezinfekc.ru/*
 *://*.diablo1.ru/*
+*://*.diapazon-plus.ru/*
 *://*.digitrain.ru/*
 *://*.diler-azhemak.ru/*
 *://*.dinamikservis.ru/*
@@ -145,6 +147,7 @@
 *://*.geekville.ru/*
 *://*.genapilot.ru/*
 *://*.generals-cncrus.ru/*
+*://*.ggf360.ru/*
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
 *://*.global-hotspot.ru/*
@@ -159,6 +162,7 @@
 *://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
 *://*.gromkosti.ru/*
+*://*.guidecomp.ru/*
 *://*.helpdoma.ru/*
 *://*.hololenses.ru/*
 *://*.hozinfo.ru/*
@@ -177,6 +181,7 @@
 *://*.infokotiki.ru/*
 *://*.informationsecurityasia.com/*
 *://*.instruk24.ru/*
+*://*.instruk.remontask.ru/*
 *://*.investim.guru/*
 *://*.ip-calculator.ru/*
 *://*.iro-yar.ru/*
@@ -208,6 +213,7 @@
 *://*.kli-games.ru/*
 *://*.k-m-b.ru/*
 *://*.kolonka31.ru/*
+*://*.kompas.tomsk.ru/*
 *://*.kompsekret.ru/*
 *://*.kompyuter-gid.ru/*
 *://*.kompyutery-programmy.ru/*
@@ -220,16 +226,19 @@
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.legkovopros.ru/*
+*://*.lengto.ru/*
 *://*.lepkomplekt.ru/*
 *://*.letsplayers.ru/*
 *://*.lifehacks.kyiv.ua/*
 *://*.linux-console.net/*
+*://*.liroro.ru/*
 *://*.litmap.ru/*
 *://*.living-sun.com/*
 *://*.lmzs.ru/*
 *://*.lukinews.ru/*
 *://*.lumpics.ru/*
 *://*.madou21.ru/*
+*://*.mainkraft.online/*
 *://*.manikurista.ru/*
 *://*.marketingideas.ru/*
 *://*.market-smm.pro/*
@@ -249,6 +258,9 @@
 *://*.mfgrobots.com/*
 *://*.m-gamer.ru/*
 *://*.mikrotiklab.ru/*
+*://*.minecraft-book.ru/*
+*://*.minecraft-max.ru/*
+*://*.minecraftz.ru/*
 *://*.mizakona.ru/*
 *://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
@@ -258,6 +270,7 @@
 *://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
 *://*.mundobytes.com/*
+*://*.mygadanie.ru/*
 *://*.myinfo.by/*
 *://*.mysolti.ru/*
 *://*.napishem.ru/*
@@ -267,12 +280,14 @@
 *://*.nastroy.net/*
 *://*.needlewoman.ru/*
 *://*.nefte-gaz.info/*
+*://*.netigor.ru/*
 *://*.netpapillomy.ru/*
 *://*.newbedev.com/*
 *://*.newtarify.ru/*
 *://*.nokiagid.ru/*
 *://*.novochag.ru/*
 *://*.oarduino.ru/*
+*://*.obecp.ru/*
 *://*.obrazovaka.ru/*
 *://*.obzorposudy.ru/*
 *://*.o-dveryah.ru/*
@@ -329,6 +344,7 @@
 *://*.prime-name.ru/*
 *://*.proantab.ru/*
 *://*.probitteh.ru/*
+*://*.procyber.me/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
 *://*.profil-pro.ru/*
@@ -389,6 +405,8 @@
 *://*.sdelatrykami.ru/*
 *://*.semenaforum.ru/*
 *://*.semfamily.ru/*
+*://*.sergoot.ru/*
+*://*.sertifikatru.ru/*
 *://*.serveradmin.ru/*
 *://*.servicebox.ru/*
 *://*.setafi.com/*
@@ -436,6 +454,7 @@
 *://*.switch-case.ru/*
 *://*.syl.ru/*
 *://*.sysadminium.ru/*
+*://*.tabl.vgtkraska24.ru/*
 *://*.taiga-taiga.ru/*
 *://*.tatsud.ru/*
 *://*.techarks.ru/*
@@ -452,6 +471,7 @@
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
+*://*.top-fun.ru/*
 *://*.traiv-komplekt.ru/*
 *://*.travel-global.ru/*
 *://*.treeofbonsai.ru/*
@@ -494,6 +514,7 @@
 *://*.web-answers.ru/*
 *://*.webznam.ru/*
 *://*.welcometochef.ru/*
+*://*.wiki-minecraft.ru/*
 *://*.wikiroot.ru/*
 *://*.willi-mos.ru/*
 *://*.winda10.com/*
@@ -513,6 +534,9 @@
 *://*.xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
 *://*.xn--e1agsbgdeid7b.xn--p1ai/*
 *://*.yacollectioner.ru/*
+*://*.yanbrowser.ru/*
+*://*.yandbrowser.ru/*
+*://*.yandx-browser.ru/*
 *://*.yaznayotvet.ru/*
 *://*.ybierling.com/*
 *://*.yborka.online/*
