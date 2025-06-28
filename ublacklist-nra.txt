@@ -1,3 +1,4 @@
+*://*.100.games/*
 *://*.1stalin.ru/*
 *://*.1svoimi-rukami.ru/*
 *://*.26pk.ru/*
@@ -21,6 +22,7 @@
 *://*.allrecipe.ru/*
 *://*.alphr.com/*
 *://*.alt-a.ru/*
+*://*.amadoris.ru/*
 *://*.ampaints.ru/*
 *://*.androidinsider.ru/*
 *://*.androidlime.ru/*
@@ -97,6 +99,7 @@
 *://*.diler-azhemak.ru/*
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
+*://*.doctorshamin.ru/*
 *://*.doma35.ru/*
 *://*.domoticzfaq.ru/*
 *://*.domovodinfo.ru/*
@@ -119,6 +122,7 @@
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
 *://*.excel-plus.ru/*
+*://*.expert-skin.ru/*
 *://*.family-link.ru/*
 *://*.faqguru.ru/*
 *://*.fateline.ru/*
@@ -204,6 +208,7 @@
 *://*.jur-spor.ru/*
 *://*.kabinet-energosbyta.ru/*
 *://*.kabinet-mgts.ru/*
+*://*.kak-pochemy.ru/*
 *://*.kamushkiguru.ru/*
 *://*.kanalizaciyadoma.com/*
 *://*.kanalizaciya-stroy.ru/*
@@ -218,6 +223,7 @@
 *://*.kompyuter-gid.ru/*
 *://*.kompyutery-programmy.ru/*
 *://*.kopterinfo.ru/*
+*://*.korea1.ru/*
 *://*.koshkinahata.ru/*
 *://*.koshkiwiki.ru/*
 *://*.kotikiinfo.ru/*
@@ -260,6 +266,8 @@
 *://*.mikrotiklab.ru/*
 *://*.minecraft-book.ru/*
 *://*.minecraft-max.ru/*
+*://*.minecraftonly.com/*
+*://*.minecraftportal.org/*
 *://*.minecraftz.ru/*
 *://*.mizakona.ru/*
 *://*.mksegment.ru/*
@@ -291,14 +299,17 @@
 *://*.obrazovaka.ru/*
 *://*.obzorposudy.ru/*
 *://*.o-dveryah.ru/*
+*://*.ogorodguru.ru/*
 *://*.ok15.ru/*
 *://*.okcomfort.com/*
+*://*.omaada.com/*
 *://*.omagnitolah.ru/*
 *://*.online-fix.me/*
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
 *://*.orfographia.ru/*
 *://*.orilmi.ru/*
+*://*.orsofit-forte.ru/*
 *://*.oshibaetsya.ru/*
 *://*.oshibkin.ru/*
 *://*.oshibkis.ru/*
@@ -468,6 +479,7 @@
 *://*.tests-english.com/*
 *://*.tgfaq.com/*
 *://*.tgme.pro/*
+*://*.thealmanach.ru/*
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
@@ -512,6 +524,7 @@
 *://*.vsetehpribory.ru/*
 *://*.ways4you.ru/*
 *://*.web-answers.ru/*
+*://*.webchef.ru/*
 *://*.webznam.ru/*
 *://*.welcometochef.ru/*
 *://*.wiki-minecraft.ru/*
