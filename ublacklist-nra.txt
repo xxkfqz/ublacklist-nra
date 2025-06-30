@@ -121,7 +121,11 @@
 *://*.elektropraktika.ru/*
 *://*.elektrospets.ru/*
 *://*.eschemo.ru/*
+*://*.excel-home.ru/*
+*://*.excelka.ru/*
 *://*.excel-plus.ru/*
+*://*.exceltab.ru/*
+*://*.exceltip.ru/*
 *://*.expert-skin.ru/*
 *://*.family-link.ru/*
 *://*.faqguru.ru/*
@@ -278,6 +282,7 @@
 *://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
 *://*.mundobytes.com/*
+*://*.my-excel.ru/*
 *://*.mygadanie.ru/*
 *://*.myinfo.by/*
 *://*.mysolti.ru/*
@@ -342,6 +347,7 @@
 *://*.playsector.ru/*
 *://*.pnevmogun.ru/*
 *://*.pobeda1945-art.ru/*
+*://*.pochemu.kniga-vsluh.ru/*
 *://*.pochistit.ru/*
 *://*.pogprom.ru/*
 *://*.pomoshnikguru.ru/*
@@ -424,6 +430,7 @@
 *://*.setphone.ru/*
 *://*.sharigame.ru/*
 *://*.shhost.ru/*
+*://*.sibsisadmin.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
@@ -436,6 +443,7 @@
 *://*.soloby.ru/*
 *://*.solutics.ru/*
 *://*.sovet.help/*
+*://*.spartaktd.ru/*
 *://*.spechmashural.ru/*
 *://*.sports.ru/*
 *://*.spravochnick.ru/*
@@ -494,6 +502,7 @@
 *://*.try2explore.com/*
 *://*.tsaristrussia.ru/*
 *://*.tvdigitally.ru/*
+*://*.typerus.ru/*
 *://*.uborka.co/*
 *://*.ubunlog.com/*
 *://*.ubuntugeeks.com/*
@@ -514,6 +523,7 @@
 *://*.vfinansah.com/*
 *://*.vibacht.ru/*
 *://*.videosolo.com/*
+*://*.vip-excel.ru/*
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
 *://*.vospari23.ru/*
@@ -536,6 +546,8 @@
 *://*.wisto.ru/*
 *://*.wol.su/*
 *://*.womenburg.ru/*
+*://*.wordexcel.top/*
+*://*.word-ofice.ru/*
 *://*.world-stalkers.ru/*
 *://*.worlplay.ru/*
 *://*.wotpack.ru/*
@@ -556,6 +568,7 @@
 *://*.ygolok.ru/*
 *://*.yourknives.ru/*
 *://*.yug-upr.ru/*
+*://*.zachem.kniga-vsluh.ru/*
 *://*.zahidknyha.com.ua/*
 *://*.zaimi.ru/*
 *://*.zakipyati.ru/*
