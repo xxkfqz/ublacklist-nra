@@ -73,12 +73,14 @@
 *://*.coderoad.ru/*
 *://*.comfort-kuhni.ru/*
 *://*.comp-lenta.ru/*
+*://*.composs.ru/*
 *://*.comp-security.net/*
 *://*.copyprogramming.com/*
 *://*.coredump.biz/*
 *://*.cpdshel.ru/*
 *://*.cq.ru/*
 *://*.crast.net/*
+*://*.cubaset.ru/*
 *://*.cubiq.ru/*
 *://*.czarsafe.ru/*
 *://*.daf-gas36.ru/*
@@ -99,6 +101,7 @@
 *://*.diler-azhemak.ru/*
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
+*://*.dj-ufo.ru/*
 *://*.doctorshamin.ru/*
 *://*.doma35.ru/*
 *://*.domoticzfaq.ru/*
@@ -106,6 +109,7 @@
 *://*.domstrousam.ru/*
 *://*.dom-team.ru/*
 *://*.donshar.ru/*
+*://*.doolike.ru/*
 *://*.dragomet.com/*
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
@@ -135,6 +139,7 @@
 *://*.fileext.info/*
 *://*.fishki.net/*
 *://*.fivefive.ru/*
+*://*.fixicomp.ru/*
 *://*.fizika-ili-himija.ru/*
 *://*.flatters.ru/*
 *://*.fobosworld.ru/*
@@ -232,6 +237,7 @@
 *://*.koshkiwiki.ru/*
 *://*.kotikiinfo.ru/*
 *://*.ladyelena.ru/*
+*://*.lanos-volgograd.ru/*
 *://*.laseris.ru/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
@@ -273,6 +279,7 @@
 *://*.minecraftonly.com/*
 *://*.minecraftportal.org/*
 *://*.minecraftz.ru/*
+*://*.mirinfo.ru/*
 *://*.mizakona.ru/*
 *://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
@@ -290,6 +297,7 @@
 *://*.nardar.ru/*
 *://*.nashsovetik.ru/*
 *://*.na-stolka.ru/*
+*://*.nastrojcomp.ru/*
 *://*.nastroy.net/*
 *://*.needlewoman.ru/*
 *://*.nefte-gaz.info/*
@@ -303,6 +311,7 @@
 *://*.obecp.ru/*
 *://*.obrazovaka.ru/*
 *://*.obzorposudy.ru/*
+*://*.ocomp.info/*
 *://*.o-dveryah.ru/*
 *://*.ogorodguru.ru/*
 *://*.ok15.ru/*
@@ -435,6 +444,7 @@
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
 *://*.slavshkola.ru/*
+*://*.slovarikslov.ru/*
 *://*.smartadm.ru/*
 *://*.smiame.ru/*
 *://*.smokingzero.ru/*
@@ -465,6 +475,7 @@
 *://*.strouy.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
+*://*.sumkamodnaya.ru/*
 *://*.sunmag.me/*
 *://*.supersoda.ru/*
 *://*.svoimirukamivse.ru/*
@@ -509,6 +520,7 @@
 *://*.ufokids.ru/*
 *://*.u-keramika.ru/*
 *://*.umniimir.ru/*
+*://*.unusual-world.ru/*
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
 *://*.urfix.ru/*
@@ -527,6 +539,7 @@
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
 *://*.vospari23.ru/*
+*://*.vosshinnik.ru/*
 *://*.votguide.ru/*
 *://*.vsenotebooki.ru/*
 *://*.vsepodomu.ru/*
@@ -542,6 +555,7 @@
 *://*.willi-mos.ru/*
 *://*.winda10.com/*
 *://*.windoro.ru/*
+*://*.windows-school.ru/*
 *://*.winitpro.ru/*
 *://*.wisto.ru/*
 *://*.wol.su/*
