@@ -104,6 +104,7 @@
 *://*.dino-park-rex.ru/*
 *://*.dj-ufo.ru/*
 *://*.doctorshamin.ru/*
+*://*.doctortk.ru/*
 *://*.doma35.ru/*
 *://*.domoticzfaq.ru/*
 *://*.domovodinfo.ru/*
@@ -281,6 +282,7 @@
 *://*.minecraftonly.com/*
 *://*.minecraftportal.org/*
 *://*.minecraftz.ru/*
+*://*.minresrus.ru/*
 *://*.mirinfo.ru/*
 *://*.mizakona.ru/*
 *://*.mksegment.ru/*
