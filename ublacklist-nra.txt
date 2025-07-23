@@ -15,6 +15,7 @@
 *://*.afishatop.ru/*
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
+*://*.alco-boss.com/*
 *://*.alexhost.com/*
 *://*.alfacasting.ru/*
 *://*.allmif.ru/*
@@ -173,6 +174,7 @@
 *://*.goldadvert.com/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
+*://*.gradusinfo.ru/*
 *://*.grandars.ru/*
 *://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
@@ -283,6 +285,7 @@
 *://*.minecraftportal.org/*
 *://*.minecraftz.ru/*
 *://*.minresrus.ru/*
+*://*.mircocktails.ru/*
 *://*.mirinfo.ru/*
 *://*.mizakona.ru/*
 *://*.mksegment.ru/*
@@ -326,6 +329,7 @@
 *://*.online-fix.me/*
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
+*://*.orbar.ru/*
 *://*.orfographia.ru/*
 *://*.orilmi.ru/*
 *://*.orsofit-forte.ru/*
@@ -353,6 +357,7 @@
 *://*.penoblo.ru/*
 *://*.peredelka38.ru/*
 *://*.perepolokh.ru/*
+*://*.performansvkusa.com/*
 *://*.perhim.ru/*
 *://*.permyachok.ru/*
 *://*.pigsshop.ru/*
@@ -429,9 +434,11 @@
 *://*.rusadmin.biz/*
 *://*.russianblogs.com/*
 *://*.rutab.net/*
+*://*.ru.windows-office.net/*
 *://*.rv-o.ru/*
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
+*://*.samogoniche.ru/*
 *://*.scbiinfrastruktura.ru/*
 *://*.sdelatrykami.ru/*
 *://*.semenaforum.ru/*
