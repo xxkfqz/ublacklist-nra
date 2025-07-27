@@ -89,6 +89,7 @@
 *://*.danovosty.ru/*
 *://*.dansay.ru/*
 *://*.dasbuch.ru/*
+*://*.datum-s.ru/*
 *://*.ddok.ru/*
 *://*.dedpodaril.com/*
 *://*.deepcloud.ru/*
@@ -376,6 +377,7 @@
 *://*.powerdmarc.com/*
 *://*.poweruser.guru/*
 *://*.powerusergu.ru/*
+*://*.pravanet.ru/*
 *://*.premtanks.ru/*
 *://*.prime-name.ru/*
 *://*.proantab.ru/*
@@ -555,6 +557,7 @@
 *://*.vosshinnik.ru/*
 *://*.votguide.ru/*
 *://*.vsenotebooki.ru/*
+*://*.vseonaruto.ru/*
 *://*.vsepodomu.ru/*
 *://*.vseprolinux.ru/*
 *://*.vsetehpribory.ru/*
