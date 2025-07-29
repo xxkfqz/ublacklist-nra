@@ -19,6 +19,7 @@
 *://*.alexhost.com/*
 *://*.alfacasting.ru/*
 *://*.allmif.ru/*
+*://*.allomart.ru/*
 *://*.allpetnames.ru/*
 *://*.allrecipe.ru/*
 *://*.alphr.com/*
@@ -560,6 +561,7 @@
 *://*.vseonaruto.ru/*
 *://*.vsepodomu.ru/*
 *://*.vseprolinux.ru/*
+*://*.vse-rukodelie.ru/*
 *://*.vsetehpribory.ru/*
 *://*.ways4you.ru/*
 *://*.web-answers.ru/*
