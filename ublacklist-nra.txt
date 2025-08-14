@@ -2,6 +2,7 @@
 *://*.1stalin.ru/*
 *://*.1svoimi-rukami.ru/*
 *://*.26pk.ru/*
+*://*.3d-turizm.ru/*
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
 *://*.4bitrix.ru/*
@@ -15,6 +16,7 @@
 *://*.afishatop.ru/*
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
+*://*.airmedc.com/*
 *://*.alco-boss.com/*
 *://*.alexhost.com/*
 *://*.alfacasting.ru/*
@@ -64,6 +66,7 @@
 *://*.cervelo-russia.ru/*
 *://*.champion56.ru/*
 *://*.chastnyj-seospecialist.ru/*
+*://*.chistodar.com/*
 *://*.chistotnik.ru/*
 *://*.chistsovet.ru/*
 *://*.cigprice.ru/*
@@ -101,9 +104,11 @@
 *://*.deepcloud.ru/*
 *://*.deinfeuer.ru/*
 *://*.delresurs.ru/*
+*://*.derevo-rus.ru/*
 *://*.desdelinux.net/*
 *://*.detektorpoligraf.ru/*
 *://*.devicetip.ru/*
+*://*.dezbox.ru/*
 *://*.dezinfekc.ru/*
 *://*.diablo1.ru/*
 *://*.diapazon-plus.ru/*
@@ -111,12 +116,14 @@
 *://*.diler-azhemak.ru/*
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
+*://*.disertiki.ru/*
 *://*.dj-ufo.ru/*
 *://*.doctorshamin.ru/*
 *://*.doctortk.ru/*
 *://*.doma35.ru/*
 *://*.domoticzfaq.ru/*
 *://*.domovodinfo.ru/*
+*://*.dompovarov.ru/*
 *://*.domstrousam.ru/*
 *://*.dom-team.ru/*
 *://*.donshar.ru/*
@@ -124,6 +131,7 @@
 *://*.dragomet.com/*
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
+*://*.dr-webs.ru/*
 *://*.dudu-organic.ru/*
 *://*.dusterok.ru/*
 *://*.dvax.ru/*
@@ -149,6 +157,7 @@
 *://*.fateline.ru/*
 *://*.fedotova-school.ru/*
 *://*.fenix.help/*
+*://*.fermilon.ru/*
 *://*.fileext.info/*
 *://*.fishki.net/*
 *://*.fivefive.ru/*
@@ -159,6 +168,7 @@
 *://*.foecity.ru/*
 *://*.fonarhotel.ru/*
 *://*.fooobar.com/*
+*://*.forexspez.ru/*
 *://*.fresh-dealer.ru/*
 *://*.fsnslnr.su/*
 *://*.gamaem.ru/*
@@ -188,6 +198,7 @@
 *://*.grandars.ru/*
 *://*.grechkalife.ru/*
 *://*.greenwaysait.ru/*
+*://*.gribysobiraem.info/*
 *://*.gromkosti.ru/*
 *://*.guidecomp.ru/*
 *://*.helpdoma.ru/*
@@ -241,6 +252,7 @@
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
 *://*.katerinasokol.ru/*
+*://*.kbsepvis.ru/*
 *://*.khokku.ru/*
 *://*.kli-games.ru/*
 *://*.k-m-b.ru/*
@@ -254,8 +266,10 @@
 *://*.koshkinahata.ru/*
 *://*.koshkiwiki.ru/*
 *://*.kotikiinfo.ru/*
+*://*.kttop.ru/*
 *://*.kyiv.ua/*
 *://*.ladyelena.ru/*
+*://*.lafakzn.ru/*
 *://*.lanos-volgograd.ru/*
 *://*.laseris.ru/*
 *://*.learn-portal.ru/*
@@ -326,6 +340,7 @@
 *://*.netigor.ru/*
 *://*.netpapillomy.ru/*
 *://*.newbedev.com/*
+*://*.newogorod.ru/*
 *://*.newtarify.ru/*
 *://*.nokiagid.ru/*
 *://*.novochag.ru/*
@@ -367,6 +382,7 @@
 *://*.ozerokarachi.ru/*
 *://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
+*://*.pay3.ru/*
 *://*.pcminipro.ru/*
 *://*.p-dip.ru/*
 *://*.penoblo.ru/*
@@ -393,6 +409,7 @@
 *://*.pravanet.ru/*
 *://*.premtanks.ru/*
 *://*.prime-name.ru/*
+*://*.privetpiter.ru/*
 *://*.proantab.ru/*
 *://*.probitteh.ru/*
 *://*.procyber.me/*
@@ -452,6 +469,7 @@
 *://*.russianblogs.com/*
 *://*.rutab.net/*
 *://*.rv-o.ru/*
+*://*.rysilicone.com/*
 *://*.saharvnorme.ru/*
 *://*.samodelino.ru/*
 *://*.samogoniche.ru/*
@@ -497,9 +515,11 @@
 *://*.stalked.ru/*
 *://*.stalker-blog.ru/*
 *://*.stalnoy-dekor.ru/*
+*://*.stanportal.ru/*
 *://*.statisticseasily.com/*
 *://*.steamshared.ru/*
 *://*.stolyar-26.ru/*
+*://*.stop-klesch.ru/*
 *://*.strategycon.ru/*
 *://*.strouy.ru/*
 *://*.stroy-book.com/*
@@ -569,6 +589,7 @@
 *://*.vip-excel.ru/*
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
+*://*.vkusny-recept.ru/*
 *://*.vospari23.ru/*
 *://*.vosshinnik.ru/*
 *://*.votguide.ru/*
