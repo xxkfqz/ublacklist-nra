@@ -79,6 +79,7 @@
 *://*.codenong.com/*
 *://*.coderlessons.com/*
 *://*.coderoad.ru/*
+*://*.cod-reg.ru/*
 *://*.comfort-kuhni.ru/*
 *://*.comp-lenta.ru/*
 *://*.compositeonline.ru/*
@@ -237,6 +238,7 @@
 *://*.it-tehnik.ru/*
 *://*.ivablog.ru/*
 *://*.ivprave.ru/*
+*://*.iz6.ru/*
 *://*.japan-portal.ru/*
 *://*.jara26.ru/*
 *://*.joecomp.com/*
@@ -386,6 +388,7 @@
 *://*.pcminipro.ru/*
 *://*.p-dip.ru/*
 *://*.penoblo.ru/*
+*://*.pensii-lgoty.ru/*
 *://*.peredelka38.ru/*
 *://*.perepolokh.ru/*
 *://*.performansvkusa.com/*
