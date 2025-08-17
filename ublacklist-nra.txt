@@ -52,6 +52,7 @@
 *://*.beltapki.ru/*
 *://*.benams.ru/*
 *://*.bestofreactjs.com/*
+*://*.besttoday.org/*
 *://*.bisv.ru/*
 *://*.biz-ideia.ru/*
 *://*.bkfc.ru/*
@@ -86,11 +87,13 @@
 *://*.composs.ru/*
 *://*.comp-security.net/*
 *://*.com.ua/*
+*://*.consumersiliconeproducts.com/*
 *://*.copyprogramming.com/*
 *://*.coredump.biz/*
 *://*.cpdshel.ru/*
 *://*.cq.ru/*
 *://*.crast.net/*
+*://*.csjsiliconesealant.com/*
 *://*.cubaset.ru/*
 *://*.cubiq.ru/*
 *://*.czarsafe.ru/*
@@ -145,6 +148,7 @@
 *://*.elektrikexpert.ru/*
 *://*.elektropraktika.ru/*
 *://*.elektrospets.ru/*
+*://*.elika-spb.ru/*
 *://*.elton-zoloto.ru/*
 *://*.eschemo.ru/*
 *://*.excel-home.ru/*
@@ -160,6 +164,7 @@
 *://*.fenix.help/*
 *://*.fermilon.ru/*
 *://*.fileext.info/*
+*://*.fishingadvice.ru/*
 *://*.fishki.net/*
 *://*.fivefive.ru/*
 *://*.fixicomp.ru/*
@@ -241,6 +246,7 @@
 *://*.iz6.ru/*
 *://*.japan-portal.ru/*
 *://*.jara26.ru/*
+*://*.jasminshow.ru/*
 *://*.joecomp.com/*
 *://*.journalovirus.ru/*
 *://*.juristyrus.ru/*
@@ -268,6 +274,7 @@
 *://*.koshkinahata.ru/*
 *://*.koshkiwiki.ru/*
 *://*.kotikiinfo.ru/*
+*://*.kozha-lica.ru/*
 *://*.kttop.ru/*
 *://*.kyiv.ua/*
 *://*.ladyelena.ru/*
@@ -327,6 +334,7 @@
 *://*.mozaiyka.ru/*
 *://*.mtcna.ru/*
 *://*.mundobytes.com/*
+*://*.museblog.ru/*
 *://*.my-excel.ru/*
 *://*.mygadanie.ru/*
 *://*.myinfo.by/*
@@ -381,6 +389,7 @@
 *://*.otzyvmarketing.ru/*
 *://*.outlooktransfer.com/*
 *://*.overcoder.net/*
+*://*.ozds.moscow/*
 *://*.ozerokarachi.ru/*
 *://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
@@ -412,6 +421,7 @@
 *://*.pravanet.ru/*
 *://*.premtanks.ru/*
 *://*.prime-name.ru/*
+*://*.principraboty.ru/*
 *://*.privetpiter.ru/*
 *://*.proantab.ru/*
 *://*.probitteh.ru/*
@@ -494,6 +504,7 @@
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
 *://*.slavshkola.ru/*
+*://*.slonrekomenduet.com/*
 *://*.slovarikslov.ru/*
 *://*.smartadm.ru/*
 *://*.smiame.ru/*
@@ -529,6 +540,7 @@
 *://*.stroy-podskazka.ru/*
 *://*.sumkamodnaya.ru/*
 *://*.sunmag.me/*
+*://*.sunnyfresh.ru/*
 *://*.supersoda.ru/*
 *://*.svoimirukamivse.ru/*
 *://*.svoimirykamiinfo.ru/*
@@ -606,6 +618,7 @@
 *://*.web-answers.ru/*
 *://*.webchef.ru/*
 *://*.webznam.ru/*
+*://*.weishunsilicon.com/*
 *://*.welcometochef.ru/*
 *://*.wiki-minecraft.ru/*
 *://*.wikiroot.ru/*
