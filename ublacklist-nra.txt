@@ -132,6 +132,7 @@
 *://*.dom-team.ru/*
 *://*.donshar.ru/*
 *://*.doolike.ru/*
+*://*.d-pravo.ru/*
 *://*.dragomet.com/*
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
@@ -249,6 +250,7 @@
 *://*.jasminshow.ru/*
 *://*.joecomp.com/*
 *://*.journalovirus.ru/*
+*://*.juristtyinfo.ru/*
 *://*.juristyrus.ru/*
 *://*.jurnalshtori.ru/*
 *://*.jur-spor.ru/*
@@ -407,6 +409,7 @@
 *://*.plarium.com/*
 *://*.playmap.ru/*
 *://*.playsector.ru/*
+*://*.playsforge.ru/*
 *://*.pnevmogun.ru/*
 *://*.pobeda1945-art.ru/*
 *://*.pochistit.ru/*
@@ -605,9 +608,11 @@
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
 *://*.vkusny-recept.ru/*
+*://*.vmeste-masterim.ru/*
 *://*.vospari23.ru/*
 *://*.vosshinnik.ru/*
 *://*.votguide.ru/*
+*://*.vse-analogi.ru/*
 *://*.vsenotebooki.ru/*
 *://*.vseonaruto.ru/*
 *://*.vsepodomu.ru/*
