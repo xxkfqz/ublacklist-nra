@@ -13,6 +13,7 @@
 *://*.ac-orbita.ru/*
 *://*.acums.ru/*
 *://*.adminunix.ru/*
+*://*.aff1.ru/*
 *://*.afishatop.ru/*
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
@@ -37,6 +38,7 @@
 *://*.aquaznanie.ru/*
 *://*.ar37.ru/*
 *://*.arduino-tech.ru/*
+*://*.arwm.ru/*
 *://*.ascentoptics.com/*
 *://*.askdev.ru/*
 *://*.askubuntu.ru/*
@@ -63,6 +65,7 @@
 *://*.businesslike.ru/*
 *://*.byteblitzhub.ru/*
 *://*.caaac.org/*
+*://*.callibri.ru/*
 *://*.carleys.ru/*
 *://*.cervelo-russia.ru/*
 *://*.champion56.ru/*
@@ -116,6 +119,7 @@
 *://*.dezinfekc.ru/*
 *://*.diablo1.ru/*
 *://*.diapazon-plus.ru/*
+*://*.digitalstrategy.ru/*
 *://*.digitrain.ru/*
 *://*.diler-azhemak.ru/*
 *://*.dinamikservis.ru/*
@@ -164,6 +168,7 @@
 *://*.fedotova-school.ru/*
 *://*.fenix.help/*
 *://*.fermilon.ru/*
+*://*.fibresplitter.com/*
 *://*.fileext.info/*
 *://*.fishingadvice.ru/*
 *://*.fishki.net/*
@@ -304,6 +309,7 @@
 *://*.markouks.ru/*
 *://*.masterspec61.ru/*
 *://*.m-blesk.ru/*
+*://*.mdgrk.ru/*
 *://*.mebelniyguru.ru/*
 *://*.mebel-sovet.ru/*
 *://*.mechtarybolova.ru/*
@@ -347,6 +353,7 @@
 *://*.na-stolka.ru/*
 *://*.nastrojcomp.ru/*
 *://*.nastroy.net/*
+*://*.natiw.ru/*
 *://*.needlewoman.ru/*
 *://*.nefte-gaz.info/*
 *://*.netigor.ru/*
@@ -366,6 +373,7 @@
 *://*.ogorodguru.ru/*
 *://*.ok15.ru/*
 *://*.okcomfort.com/*
+*://*.ok-gid.ru/*
 *://*.omaada.com/*
 *://*.omagnitolah.ru/*
 *://*.online-fix.me/*
@@ -426,6 +434,7 @@
 *://*.prime-name.ru/*
 *://*.principraboty.ru/*
 *://*.privetpiter.ru/*
+*://*.prizma.tools/*
 *://*.proantab.ru/*
 *://*.probitteh.ru/*
 *://*.procyber.me/*
@@ -500,6 +509,7 @@
 *://*.servicebox.ru/*
 *://*.setafi.com/*
 *://*.setphone.ru/*
+*://*.shadani.ru/*
 *://*.sharigame.ru/*
 *://*.shhost.ru/*
 *://*.sibsisadmin.ru/*
@@ -513,6 +523,7 @@
 *://*.smiame.ru/*
 *://*.smokingzero.ru/*
 *://*.socialgurusphere.ru/*
+*://*.socialochki.ru/*
 *://*.soda102.ru/*
 *://*.soloby.ru/*
 *://*.solutics.ru/*
@@ -558,6 +569,7 @@
 *://*.techbriefly.com/*
 *://*.technika66.ru/*
 *://*.technika-remont.ru/*
+*://*.teleggid.com/*
 *://*.telegramas.ru/*
 *://*.tellsmart.ru/*
 *://*.teogame.ru/*
