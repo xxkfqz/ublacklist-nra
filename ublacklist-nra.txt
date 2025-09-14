@@ -18,6 +18,7 @@
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
 *://*.airmedc.com/*
+*://*.akademiakhv.ru/*
 *://*.alco-boss.com/*
 *://*.alexhost.com/*
 *://*.alfacasting.ru/*
@@ -138,6 +139,7 @@
 *://*.doolike.ru/*
 *://*.d-pravo.ru/*
 *://*.dragomet.com/*
+*://*.drestime.ru/*
 *://*.drevologia.ru/*
 *://*.drevtorg-plus.ru/*
 *://*.dr-webs.ru/*
@@ -304,6 +306,7 @@
 *://*.madou21.ru/*
 *://*.mainkraft.online/*
 *://*.manikurista.ru/*
+*://*.mantikor.ru/*
 *://*.marketingideas.ru/*
 *://*.market-smm.pro/*
 *://*.markouks.ru/*
@@ -395,6 +398,7 @@
 *://*.otvetbaza.ru/*
 *://*.otvetgde.ru/*
 *://*.otvetimfaq.ru/*
+*://*.otvet.lol/*
 *://*.otvet-pravda.ru/*
 *://*.otzyvmarketing.ru/*
 *://*.outlooktransfer.com/*
@@ -452,6 +456,7 @@
 *://*.prosmazku.ru/*
 *://*.prospk.ru/*
 *://*.proubuntu.ru/*
+*://*.proytube.ru/*
 *://*.pscraft.ru/*
 *://*.py4u.net/*
 *://*.qacode.ru/*
