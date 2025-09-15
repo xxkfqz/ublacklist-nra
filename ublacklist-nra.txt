@@ -492,6 +492,7 @@
 *://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
 *://*.roskod.ru/*
+*://*.rubthb.ru/*
 *://*.ruclient.ru/*
 *://*.rudevice.ru/*
 *://*.rugeek.ru/*
