@@ -236,6 +236,8 @@
 *://*.instruk24.ru/*
 *://*.instruka.ru/*
 *://*.instrukcii.top/*
+*://*.instruko.top/*
+*://*.instruktiv.top/*
 *://*.in.ua/*
 *://*.investim.guru/*
 *://*.ip-calculator.ru/*
@@ -313,6 +315,7 @@
 *://*.masterspec61.ru/*
 *://*.m-blesk.ru/*
 *://*.mdgrk.ru/*
+*://*.mebel-go.ru/*
 *://*.mebelniyguru.ru/*
 *://*.mebel-sovet.ru/*
 *://*.mechtarybolova.ru/*
