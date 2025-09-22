@@ -437,6 +437,7 @@
 *://*.poweruser.guru/*
 *://*.powerusergu.ru/*
 *://*.pravanet.ru/*
+*://*.pravoslavyy.ru/*
 *://*.premtanks.ru/*
 *://*.prime-name.ru/*
 *://*.principraboty.ru/*
@@ -447,6 +448,7 @@
 *://*.procyber.me/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
+*://*.professiya.net/*
 *://*.profil-pro.ru/*
 *://*.profirk.ru/*
 *://*.progi.pro/*
