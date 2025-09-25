@@ -27,6 +27,7 @@
 *://*.allpetnames.ru/*
 *://*.allrecipe.ru/*
 *://*.alphr.com/*
+*://*.altarena.ru/*
 *://*.alt-a.ru/*
 *://*.amadoris.ru/*
 *://*.ampaints.ru/*
@@ -62,7 +63,9 @@
 *://*.blits-air.ru/*
 *://*.blogrunet.ru/*
 *://*.bluraycopys.com/*
+*://*.bp1s.ru/*
 *://*.browserplay.ru/*
+*://*.buhuchet-info.ru/*
 *://*.businesslike.ru/*
 *://*.byteblitzhub.ru/*
 *://*.caaac.org/*
@@ -202,6 +205,7 @@
 *://*.giroswheel.ru/*
 *://*.global-hotspot.ru/*
 *://*.global-ocean.ru/*
+*://*.globex-capital.ru/*
 *://*.gmodz.ru/*
 *://*.gnw.su/*
 *://*.god-rust.ru/*
@@ -230,6 +234,7 @@
 *://*.i-harness.com/*
 *://*.ik63.ru/*
 *://*.imena-dlya-devochek.ru/*
+*://*.infocon-group.ru/*
 *://*.infoeng.ru/*
 *://*.infokotiki.ru/*
 *://*.informationsecurityasia.com/*
@@ -247,6 +252,7 @@
 *://*.iskonspb.ru/*
 *://*.issue.life/*
 *://*.itigic.com/*
+*://*.it-lite.ru/*
 *://*.itproffi.ru/*
 *://*.itsecforu.ru/*
 *://*.it-swarm-*
@@ -354,9 +360,11 @@
 *://*.myinfo.by/*
 *://*.mysolti.ru/*
 *://*.napishem.ru/*
+*://*.napodrabotku.ru/*
 *://*.nardar.ru/*
 *://*.nashsovetik.ru/*
 *://*.na-stolka.ru/*
+*://*.nastoysam.ru/*
 *://*.nastrojcomp.ru/*
 *://*.nastroy.net/*
 *://*.natiw.ru/*
@@ -392,6 +400,7 @@
 *://*.oshibaetsya.ru/*
 *://*.oshibkin.ru/*
 *://*.oshibkis.ru/*
+*://*.oshibku.top/*
 *://*.osta-nina.ru/*
 *://*.otdelka-remont.ru/*
 *://*.oterraria.ru/*
@@ -452,6 +461,7 @@
 *://*.profil-pro.ru/*
 *://*.profirk.ru/*
 *://*.progi.pro/*
+*://*.programmschool.ru/*
 *://*.prog-time.ru/*
 *://*.pronabludenie.com/*
 *://*.pronakip.com/*
@@ -521,6 +531,7 @@
 *://*.setafi.com/*
 *://*.setphone.ru/*
 *://*.shadani.ru/*
+*://*.sha-d-panno.ru/*
 *://*.sharigame.ru/*
 *://*.shhost.ru/*
 *://*.sibsisadmin.ru/*
@@ -528,6 +539,7 @@
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
 *://*.slavshkola.ru/*
+*://*.slesario.ru/*
 *://*.slonrekomenduet.com/*
 *://*.slovarikslov.ru/*
 *://*.smartadm.ru/*
@@ -593,6 +605,7 @@
 *://*.toadmin.ru/*
 *://*.tomsk.ru/*
 *://*.top-fun.ru/*
+*://*.toposhibok.ru/*
 *://*.traiv-komplekt.ru/*
 *://*.travel-global.ru/*
 *://*.treeofbonsai.ru/*
@@ -611,6 +624,7 @@
 *://*.ufokids.ru/*
 *://*.u-keramika.ru/*
 *://*.umniimir.ru/*
+*://*.universe-soft.com/*
 *://*.unusual-world.ru/*
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
