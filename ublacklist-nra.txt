@@ -10,11 +10,13 @@
 *://*.7flamme.com/*
 *://*.7gear.ru/*
 *://*.8host.com/*
+*://*.8vs.ru/*
 *://*.ac-orbita.ru/*
 *://*.acums.ru/*
 *://*.adminunix.ru/*
 *://*.aff1.ru/*
 *://*.afishatop.ru/*
+*://*.aggsoft.ru/*
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
 *://*.airmedc.com/*
@@ -265,6 +267,7 @@
 *://*.jasminshow.ru/*
 *://*.joecomp.com/*
 *://*.journalovirus.ru/*
+*://*.jsk-oren.ru/*
 *://*.juristtyinfo.ru/*
 *://*.juristyrus.ru/*
 *://*.jurnalshtori.ru/*
@@ -517,6 +520,7 @@
 *://*.rv-o.ru/*
 *://*.rysilicone.com/*
 *://*.saharvnorme.ru/*
+*://*.samarainternet.ru/*
 *://*.samodelino.ru/*
 *://*.samogoniche.ru/*
 *://*.scbiinfrastruktura.ru/*
@@ -557,6 +561,7 @@
 *://*.spravochnick.ru/*
 *://*.sprosi.pro/*
 *://*.spy-soft.net/*
+*://*.sravni.ru/*
 *://*.src-bin.com/*
 *://*.ssldragon.com/*
 *://*.stackfinder.ru/*
@@ -605,6 +610,7 @@
 *://*.toadmin.ru/*
 *://*.tomsk.ru/*
 *://*.top-fun.ru/*
+*://*.tophallclub.ru/*
 *://*.toposhibok.ru/*
 *://*.traiv-komplekt.ru/*
 *://*.travel-global.ru/*
@@ -662,6 +668,7 @@
 *://*.webznam.ru/*
 *://*.weishunsilicon.com/*
 *://*.welcometochef.ru/*
+*://*.white-windows.ru/*
 *://*.wiki-minecraft.ru/*
 *://*.wikiroot.ru/*
 *://*.willi-mos.ru/*
