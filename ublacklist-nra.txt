@@ -1,4 +1,5 @@
 *://*.100.games/*
+*://*.101-help.com/*
 *://*.1stalin.ru/*
 *://*.1svoimi-rukami.ru/*
 *://*.26pk.ru/*
@@ -211,6 +212,7 @@
 *://*.gmodz.ru/*
 *://*.gnw.su/*
 *://*.god-rust.ru/*
+*://*.god-tigra.ru/*
 *://*.goldadvert.com/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
@@ -307,6 +309,7 @@
 *://*.lengto.ru/*
 *://*.lepkomplekt.ru/*
 *://*.letsplayers.ru/*
+*://*.lifeo.ru/*
 *://*.linux-console.net/*
 *://*.liroro.ru/*
 *://*.litmap.ru/*
@@ -349,6 +352,7 @@
 *://*.mircocktails.ru/*
 *://*.mirinfo.ru/*
 *://*.mizakona.ru/*
+*://*.mkornilov.ru/*
 *://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
@@ -386,6 +390,7 @@
 *://*.obzoro.ru/*
 *://*.obzorposudy.ru/*
 *://*.ocomp.info/*
+*://*.oc-windows.ru/*
 *://*.o-dveryah.ru/*
 *://*.ogorodguru.ru/*
 *://*.ok15.ru/*
@@ -423,6 +428,7 @@
 *://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
 *://*.pay3.ru/*
+*://*.pchardwarepro.com/*
 *://*.pcminipro.ru/*
 *://*.p-dip.ru/*
 *://*.penoblo.ru/*
@@ -444,6 +450,7 @@
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
 *://*.poshtukaturke.ru/*
+*://*.post-ap.ru/*
 *://*.potelevizoram.ru/*
 *://*.powerdmarc.com/*
 *://*.poweruser.guru/*
@@ -477,6 +484,7 @@
 *://*.proytube.ru/*
 *://*.pscraft.ru/*
 *://*.py4u.net/*
+*://*.pyatilistnik.org/*
 *://*.qacode.ru/*
 *://*.qa-help.ru/*
 *://*.qarchive.ru/*
@@ -597,6 +605,7 @@
 *://*.techbriefly.com/*
 *://*.technika66.ru/*
 *://*.technika-remont.ru/*
+*://*.techn-it.ru/*
 *://*.teleggid.com/*
 *://*.telegramas.ru/*
 *://*.tellsmart.ru/*
@@ -608,6 +617,7 @@
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
 *://*.toadmin.ru/*
+*://*.todaytimes.ru/*
 *://*.tomsk.ru/*
 *://*.top-fun.ru/*
 *://*.tophallclub.ru/*
