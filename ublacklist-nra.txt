@@ -56,6 +56,7 @@
 *://*.bazaznanie.ru/*
 *://*.baziudachi.ru/*
 *://*.beeline-interns.ru/*
+*://*.befam.ru/*
 *://*.beltapki.ru/*
 *://*.benams.ru/*
 *://*.bestofreactjs.com/*
@@ -682,6 +683,7 @@
 *://*.wiki-minecraft.ru/*
 *://*.wikiroot.ru/*
 *://*.willi-mos.ru/*
+*://*.winadvice.ru/*
 *://*.winda10.com/*
 *://*.windoro.ru/*
 *://*.windows-office.net/*
