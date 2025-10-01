@@ -72,6 +72,7 @@
 *://*.buhuchet-info.ru/*
 *://*.businesslike.ru/*
 *://*.byteblitzhub.ru/*
+*://*.bytenews.ru/*
 *://*.caaac.org/*
 *://*.callibri.ru/*
 *://*.carleys.ru/*
@@ -97,6 +98,7 @@
 *://*.compositeonline.ru/*
 *://*.composs.ru/*
 *://*.comp-security.net/*
+*://*.computern.ru/*
 *://*.com.ua/*
 *://*.consumersiliconeproducts.com/*
 *://*.copyprogramming.com/*
@@ -241,6 +243,7 @@
 *://*.imena-dlya-devochek.ru/*
 *://*.infocon-group.ru/*
 *://*.infoeng.ru/*
+*://*.infogoro.ru/*
 *://*.infokotiki.ru/*
 *://*.informationsecurityasia.com/*
 *://*.instruk24.ru/*
@@ -376,6 +379,7 @@
 *://*.nastrojcomp.ru/*
 *://*.nastroy.net/*
 *://*.natiw.ru/*
+*://*.naukatech.ru/*
 *://*.needlewoman.ru/*
 *://*.nefte-gaz.info/*
 *://*.netigor.ru/*
@@ -392,6 +396,7 @@
 *://*.obzorposudy.ru/*
 *://*.ocomp.info/*
 *://*.oc-windows.ru/*
+*://*.odba.ru/*
 *://*.o-dveryah.ru/*
 *://*.ogorodguru.ru/*
 *://*.ok15.ru/*
@@ -441,6 +446,7 @@
 *://*.permyachok.ru/*
 *://*.pigsshop.ru/*
 *://*.plarium.com/*
+*://*.playgroundmods.ru/*
 *://*.playmap.ru/*
 *://*.playsector.ru/*
 *://*.playsforge.ru/*
@@ -450,6 +456,7 @@
 *://*.pogprom.ru/*
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
+*://*.portalcomp.ru/*
 *://*.poshtukaturke.ru/*
 *://*.post-ap.ru/*
 *://*.potelevizoram.ru/*
@@ -537,6 +544,7 @@
 *://*.semenaforum.ru/*
 *://*.semfamily.ru/*
 *://*.sergoot.ru/*
+*://*.sertifikatru1.ru/*
 *://*.sertifikatru.ru/*
 *://*.serveradmin.ru/*
 *://*.servergate.ru/*
@@ -556,6 +564,7 @@
 *://*.slonrekomenduet.com/*
 *://*.slovarikslov.ru/*
 *://*.smartadm.ru/*
+*://*.smartronix.ru/*
 *://*.smiame.ru/*
 *://*.smokingzero.ru/*
 *://*.socialgurusphere.ru/*
@@ -646,6 +655,7 @@
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
 *://*.urfix.ru/*
+*://*.usylapyhvosti.ru/*
 *://*.utyatnishna.ru/*
 *://*.vamtlgrm.com/*
 *://*.v-androide.com/*
@@ -676,6 +686,7 @@
 *://*.ways4you.ru/*
 *://*.web-answers.ru/*
 *://*.webchef.ru/*
+*://*.webgraal.ru/*
 *://*.webznam.ru/*
 *://*.weishunsilicon.com/*
 *://*.welcometochef.ru/*
