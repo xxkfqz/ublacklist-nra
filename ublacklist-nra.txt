@@ -94,6 +94,7 @@
 *://*.coderoad.ru/*
 *://*.cod-reg.ru/*
 *://*.comfort-kuhni.ru/*
+*://*.comicsparty.ru/*
 *://*.comp-lenta.ru/*
 *://*.compositeonline.ru/*
 *://*.composs.ru/*
@@ -226,6 +227,7 @@
 *://*.gribysobiraem.info/*
 *://*.gromkosti.ru/*
 *://*.guidecomp.ru/*
+*://*.happyglasslevel.ru/*
 *://*.helpdoma.ru/*
 *://*.hololenses.ru/*
 *://*.hozinfo.ru/*
@@ -295,6 +297,7 @@
 *://*.kompsekret.ru/*
 *://*.kompyuter-gid.ru/*
 *://*.kompyutery-programmy.ru/*
+*://*.kom-servise.ru/*
 *://*.kopterinfo.ru/*
 *://*.korea1.ru/*
 *://*.koshkinahata.ru/*
@@ -360,6 +363,7 @@
 *://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
+*://*.molodov-guitarschool.ru/*
 *://*.mosproekty.ru/*
 *://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
@@ -382,6 +386,7 @@
 *://*.naukatech.ru/*
 *://*.needlewoman.ru/*
 *://*.nefte-gaz.info/*
+*://*.nerv-system.ru/*
 *://*.netigor.ru/*
 *://*.netpapillomy.ru/*
 *://*.newbedev.com/*
@@ -539,6 +544,7 @@
 *://*.samarainternet.ru/*
 *://*.samodelino.ru/*
 *://*.samogoniche.ru/*
+*://*.sbornik-fraz.ru/*
 *://*.scbiinfrastruktura.ru/*
 *://*.sdelatrykami.ru/*
 *://*.semenaforum.ru/*
