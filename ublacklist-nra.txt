@@ -25,6 +25,7 @@
 *://*.alco-boss.com/*
 *://*.alexhost.com/*
 *://*.alfacasting.ru/*
+*://*.alleasing.ru/*
 *://*.allmif.ru/*
 *://*.allomart.ru/*
 *://*.allpetnames.ru/*
@@ -52,6 +53,8 @@
 *://*.autort.ru/*
 *://*.autotuning.expert/*
 *://*.avtomotoprof.ru/*
+*://*.avtoshod.ru/*
+*://*.aziada.ru/*
 *://*.baikal24-nauka.ru/*
 *://*.bazaznanie.ru/*
 *://*.baziudachi.ru/*
@@ -245,11 +248,13 @@
 *://*.imena-dlya-devochek.ru/*
 *://*.infocon-group.ru/*
 *://*.infoeng.ru/*
+*://*.info-goods.ru/*
 *://*.infogoro.ru/*
 *://*.infokotiki.ru/*
 *://*.informationsecurityasia.com/*
 *://*.instruk24.ru/*
 *://*.instruka.ru/*
+*://*.instruka.top/*
 *://*.instrukcii.top/*
 *://*.instruko.top/*
 *://*.instruktiv.top/*
@@ -409,6 +414,7 @@
 *://*.ok-gid.ru/*
 *://*.omaada.com/*
 *://*.omagnitolah.ru/*
+*://*.onesy.ru/*
 *://*.online-fix.me/*
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
@@ -576,6 +582,7 @@
 *://*.socialgurusphere.ru/*
 *://*.socialochki.ru/*
 *://*.soda102.ru/*
+*://*.softsalad.ru/*
 *://*.soloby.ru/*
 *://*.solutics.ru/*
 *://*.sovet.help/*
