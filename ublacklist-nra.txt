@@ -40,6 +40,7 @@
 *://*.androidtvbox.ru/*
 *://*.answer-id.com/*
 *://*.answersearch.ru/*
+*://*.antelmedia.ru/*
 *://*.aquaroleplay.ru/*
 *://*.aquaznanie.ru/*
 *://*.ar37.ru/*
@@ -161,6 +162,7 @@
 *://*.dvax.ru/*
 *://*.dvekoz.ru/*
 *://*.eabel.com/*
+*://*.easycoding.org/*
 *://*.easydoit.ru/*
 *://*.e-cighub.ru/*
 *://*.electroinfo.net/*
@@ -323,6 +325,7 @@
 *://*.letsplayers.ru/*
 *://*.lifeo.ru/*
 *://*.linux-console.net/*
+*://*.linux-terminal.com/*
 *://*.liroro.ru/*
 *://*.litmap.ru/*
 *://*.living-sun.com/*
@@ -568,6 +571,7 @@
 *://*.sharigame.ru/*
 *://*.shhost.ru/*
 *://*.sibsisadmin.ru/*
+*://*.silent-hill.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
 *://*.siobr.ru/*
