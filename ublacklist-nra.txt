@@ -225,6 +225,7 @@
 *://*.goldadvert.com/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
+*://*.gosuslugisovet.ru/
 *://*.gradusinfo.ru/*
 *://*.grandars.ru/*
 *://*.grechkalife.ru/*
