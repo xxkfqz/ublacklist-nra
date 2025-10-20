@@ -12,6 +12,7 @@
 *://*.7gear.ru/*
 *://*.8host.com/*
 *://*.8vs.ru/*
+*://*.900913.ru/*
 *://*.ac-orbita.ru/*
 *://*.acums.ru/*
 *://*.adminunix.ru/*
@@ -51,7 +52,9 @@
 *://*.askubuntu.ru/*
 *://*.askvoprosy.com/*
 *://*.aspose.com/*
+*://*.automag16.ru/*
 *://*.autort.ru/*
+*://*.auto-scania.ru/*
 *://*.autotuning.expert/*
 *://*.avtomotoprof.ru/*
 *://*.avtoshod.ru/*
@@ -81,6 +84,7 @@
 *://*.caaac.org/*
 *://*.callibri.ru/*
 *://*.carleys.ru/*
+*://*.ccm.net/*
 *://*.cervelo-russia.ru/*
 *://*.champion56.ru/*
 *://*.chastnyj-seospecialist.ru/*
@@ -374,6 +378,7 @@
 *://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
+*://*.moidachi.ru/*
 *://*.molodov-guitarschool.ru/*
 *://*.mosproekty.ru/*
 *://*.moya-stranica-help.ru/*
@@ -542,6 +547,7 @@
 *://*.restcompany.ru/*
 *://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
+*://*.rldp.ru/*
 *://*.roskod.ru/*
 *://*.rubthb.ru/*
 *://*.ruclient.ru/*
