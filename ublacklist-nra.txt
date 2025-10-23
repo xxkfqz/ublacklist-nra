@@ -105,6 +105,7 @@
 *://*.cod-reg.ru/*
 *://*.comfort-kuhni.ru/*
 *://*.comicsparty.ru/*
+*://*.comphome.ru/*
 *://*.comp-lenta.ru/*
 *://*.compositeonline.ru/*
 *://*.composs.ru/*
