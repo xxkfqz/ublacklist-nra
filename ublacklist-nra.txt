@@ -46,6 +46,7 @@
 *://*.aquaznanie.ru/*
 *://*.ar37.ru/*
 *://*.arduino-tech.ru/*
+*://*.arena18skill.ru/*
 *://*.arwm.ru/*
 *://*.ascentoptics.com/*
 *://*.askdev.ru/*
@@ -148,6 +149,7 @@
 *://*.dj-ufo.ru/*
 *://*.doctorshamin.ru/*
 *://*.doctortk.ru/*
+*://*.dog-breeds.ru/*
 *://*.doma35.ru/*
 *://*.domoticzfaq.ru/*
 *://*.domovodinfo.ru/*
@@ -163,6 +165,7 @@
 *://*.drevtorg-plus.ru/*
 *://*.dr-webs.ru/*
 *://*.dudu-organic.ru/*
+*://*.du-lya.ru/*
 *://*.dusterok.ru/*
 *://*.dvax.ru/*
 *://*.dvekoz.ru/*
@@ -184,6 +187,7 @@
 *://*.exceltab.ru/*
 *://*.exceltip.ru/*
 *://*.expert-skin.ru/*
+*://*.ex-u.ru/*
 *://*.family-link.ru/*
 *://*.faqguru.ru/*
 *://*.fateline.ru/*
@@ -250,6 +254,7 @@
 *://*.ichip.ru/*
 *://*.ic-stroy.ru/*
 *://*.ifelse.info/*
+*://*.ifonchik.ru/*
 *://*.igry-gid.ru/*
 *://*.i-harness.com/*
 *://*.ik63.ru/*
@@ -374,6 +379,7 @@
 *://*.mircocktails.ru/*
 *://*.mirinfo.ru/*
 *://*.mizakona.ru/*
+*://*.mkkras.ru/*
 *://*.mkornilov.ru/*
 *://*.mksegment.ru/*
 *://*.mobilpiu.ru/*
@@ -383,6 +389,7 @@
 *://*.mosproekty.ru/*
 *://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
+*://*.mrpolyglot.com/*
 *://*.mtcna.ru/*
 *://*.mundobytes.com/*
 *://*.museblog.ru/*
@@ -420,6 +427,7 @@
 *://*.odba.ru/*
 *://*.o-dveryah.ru/*
 *://*.ogorodguru.ru/*
+*://*.og-smi.ru/*
 *://*.ok15.ru/*
 *://*.okcomfort.com/*
 *://*.ok-gid.ru/*
@@ -466,6 +474,7 @@
 *://*.performansvkusa.com/*
 *://*.perhim.ru/*
 *://*.permyachok.ru/*
+*://*.petsjoke.ru/*
 *://*.pigsshop.ru/*
 *://*.plarium.com/*
 *://*.playgroundmods.ru/*
@@ -479,6 +488,7 @@
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
 *://*.portalcomp.ru/*
+*://*.posetke.ru/*
 *://*.poshtukaturke.ru/*
 *://*.post-ap.ru/*
 *://*.potelevizoram.ru/*
@@ -537,6 +547,7 @@
 *://*.reabuilding.ru/*
 *://*.rebusnik.ru/*
 *://*.recepti-pro.ru/*
+*://*.releika.ru/*
 *://*.remcomphelp.ru/*
 *://*.remontask.ru/*
 *://*.remontcompa.ru/*
@@ -601,6 +612,7 @@
 *://*.sovet.help/*
 *://*.spartaktd.ru/*
 *://*.spechmashural.ru/*
+*://*.spletnik.ru/*
 *://*.sports.ru/*
 *://*.spravochnick.ru/*
 *://*.sprosi.pro/*
@@ -652,13 +664,16 @@
 *://*.thealmanach.ru/*
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
+*://*.tiniatov.ru/*
 *://*.toadmin.ru/*
+*://*.tobiz24.ru/*
 *://*.todaytimes.ru/*
 *://*.tomsk.ru/*
 *://*.top-fun.ru/*
 *://*.tophallclub.ru/*
 *://*.toposhibok.ru/*
 *://*.traiv-komplekt.ru/*
+*://*.translated-into.com/*
 *://*.trashexpert.ru/*
 *://*.travel-global.ru/*
 *://*.treeofbonsai.ru/*
@@ -673,6 +688,7 @@
 *://*.uborka.co/*
 *://*.ubunlog.com/*
 *://*.ubuntugeeks.com/*
+*://*.uchenie.top/*
 *://*.ucord.ru/*
 *://*.ufokids.ru/*
 *://*.u-keramika.ru/*
@@ -703,6 +719,7 @@
 *://*.vospari23.ru/*
 *://*.vosshinnik.ru/*
 *://*.votguide.ru/*
+*://*.vscoapp.ru/*
 *://*.vse-analogi.ru/*
 *://*.vsenotebooki.ru/*
 *://*.vseonaruto.ru/*
@@ -756,4 +773,5 @@
 *://*.zakipyati.ru/*
 *://*.znatoki.org/*
 *://*.znaysad.ru/*
+*://*.zoo-skazka.ru/*
 *://*.zvenst.ru/*
