@@ -23,6 +23,7 @@
 *://*.ahaslides.com/*
 *://*.airmedc.com/*
 *://*.akademiakhv.ru/*
+*://*.akvilona.ru/*
 *://*.alco-boss.com/*
 *://*.alexhost.com/*
 *://*.alfacasting.ru/*
@@ -329,6 +330,7 @@
 *://*.lafakzn.ru/*
 *://*.lanos-volgograd.ru/*
 *://*.laseris.ru/*
+*://*.lavrus.org/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
 *://*.legkovopros.ru/*
