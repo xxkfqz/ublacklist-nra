@@ -6,6 +6,7 @@
 *://*.3d-turizm.ru/*
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
+*://*.4adm.in/*
 *://*.4bitrix.ru/*
 *://*.5pet.ru/*
 *://*.7flamme.com/*
@@ -55,6 +56,7 @@
 *://*.askvoprosy.com/*
 *://*.aspose.com/*
 *://*.automag16.ru/*
+*://*.autoppt.com/*
 *://*.autort.ru/*
 *://*.auto-scania.ru/*
 *://*.autotuning.expert/*
@@ -252,6 +254,7 @@
 *://*.hozyaykin.ru/*
 *://*.hozzi.ru/*
 *://*.http-wikipediya.ru/*
+*://*.iakpp.ru/*
 *://*.iaproger.ru/*
 *://*.ichip.ru/*
 *://*.ic-stroy.ru/*
@@ -315,6 +318,7 @@
 *://*.kniga-vsluh.ru/*
 *://*.kolonka31.ru/*
 *://*.kompsekret.ru/*
+*://*.komputer-nn.ru/*
 *://*.kompyuter-gid.ru/*
 *://*.kompyutery-programmy.ru/*
 *://*.kom-servise.ru/*
@@ -326,6 +330,7 @@
 *://*.kozha-lica.ru/*
 *://*.kttop.ru/*
 *://*.kyiv.ua/*
+*://*.lada-43.ru/*
 *://*.ladyelena.ru/*
 *://*.lafakzn.ru/*
 *://*.lanos-volgograd.ru/*
@@ -385,6 +390,7 @@
 *://*.mkkras.ru/*
 *://*.mkornilov.ru/*
 *://*.mksegment.ru/*
+*://*.mngb.ru/*
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
 *://*.moidachi.ru/*
@@ -400,6 +406,7 @@
 *://*.mygadanie.ru/*
 *://*.myinfo.by/*
 *://*.mysolti.ru/*
+*://*.mywebcenter.ru/*
 *://*.napishem.ru/*
 *://*.napodrabotku.ru/*
 *://*.nardar.ru/*
@@ -441,14 +448,17 @@
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
 *://*.orbar.ru/*
+*://*.orenlift.ru/*
 *://*.orfographia.ru/*
 *://*.orilmi.ru/*
+*://*.ornatus.ru/*
 *://*.orsofit-forte.ru/*
 *://*.oshibaetsya.ru/*
 *://*.oshibkin.ru/*
 *://*.oshibkis.ru/*
 *://*.oshibku.top/*
 *://*.osta-nina.ru/*
+*://*.osutivremeni.ru/*
 *://*.otdelka-remont.ru/*
 *://*.oterraria.ru/*
 *://*.otlichaet.com/*
@@ -464,6 +474,7 @@
 *://*.overcoder.net/*
 *://*.ozds.moscow/*
 *://*.ozerokarachi.ru/*
+*://*.paljutemu.ru/*
 *://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
 *://*.pay3.ru/*
@@ -514,6 +525,7 @@
 *://*.profil-pro.ru/*
 *://*.profirk.ru/*
 *://*.progi.pro/*
+*://*.program-1c.ru/*
 *://*.programmschool.ru/*
 *://*.prog-time.ru/*
 *://*.pronabludenie.com/*
@@ -550,6 +562,7 @@
 *://*.reabuilding.ru/*
 *://*.rebusnik.ru/*
 *://*.recepti-pro.ru/*
+*://*.regularhuman.ru/*
 *://*.releika.ru/*
 *://*.remcomphelp.ru/*
 *://*.remontask.ru/*
@@ -558,11 +571,13 @@
 *://*.remontoteka.net/*
 *://*.rem-sovet.ru/*
 *://*.remstroy.pro/*
+*://*.repka-sp.ru/*
 *://*.restcompany.ru/*
 *://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
 *://*.rldp.ru/*
 *://*.roskod.ru/*
+*://*.rubilnik-bor.ru/*
 *://*.rubthb.ru/*
 *://*.ruclient.ru/*
 *://*.rudevice.ru/*
@@ -662,6 +677,7 @@
 *://*.tellsmart.ru/*
 *://*.teogame.ru/*
 *://*.tests-english.com/*
+*://*.textme.work/*
 *://*.tgfaq.com/*
 *://*.tgme.pro/*
 *://*.thealmanach.ru/*
@@ -674,6 +690,7 @@
 *://*.tomsk.ru/*
 *://*.top-fun.ru/*
 *://*.tophallclub.ru/*
+*://*.topkoder.ru/*
 *://*.toposhibok.ru/*
 *://*.traiv-komplekt.ru/*
 *://*.translated-into.com/*
@@ -757,8 +774,10 @@
 *://*.wotpack.ru/*
 *://*.wowdream.ru/*
 *://*.wowmoon.ru/*
+*://*.wukihow.com/*
 *://*.xetsoft.ru/*
 *://*.xiaomi-1.ru/*
+*://*.xn----7sba7aachdbqfnhtigrl.xn--p1ai/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
 *://*.xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
 *://*.xn--e1agsbgdeid7b.xn--p1ai/*
