@@ -26,6 +26,7 @@
 *://*.akademiakhv.ru/*
 *://*.akvilona.ru/*
 *://*.alco-boss.com/*
+*://*.alexandrshikhov.ru/*
 *://*.alexhost.com/*
 *://*.alfacasting.ru/*
 *://*.alleasing.ru/*
@@ -49,6 +50,7 @@
 *://*.ar37.ru/*
 *://*.arduino-tech.ru/*
 *://*.arena18skill.ru/*
+*://*.arhivo.com/*
 *://*.arwm.ru/*
 *://*.ascentoptics.com/*
 *://*.askdev.ru/*
@@ -73,6 +75,7 @@
 *://*.benams.ru/*
 *://*.bestofreactjs.com/*
 *://*.besttoday.org/*
+*://*.bigro.ru/*
 *://*.bisv.ru/*
 *://*.biz-ideia.ru/*
 *://*.bkfc.ru/*
@@ -177,6 +180,7 @@
 *://*.easycoding.org/*
 *://*.easydoit.ru/*
 *://*.e-cighub.ru/*
+*://*.ecpexpert.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
 *://*.elektrikexpert.ru/*
@@ -195,6 +199,7 @@
 *://*.family-link.ru/*
 *://*.faqguru.ru/*
 *://*.fateline.ru/*
+*://*.fayllar.org/*
 *://*.fedotova-school.ru/*
 *://*.fenix.help/*
 *://*.fermilon.ru/*
@@ -206,6 +211,7 @@
 *://*.fixicomp.ru/*
 *://*.fizika-ili-himija.ru/*
 *://*.flatters.ru/*
+*://*.floral-city.ru/*
 *://*.fobosworld.ru/*
 *://*.foecity.ru/*
 *://*.fonarhotel.ru/*
@@ -310,6 +316,7 @@
 *://*.kanalizaciyadoma.com/*
 *://*.kanalizaciya-stroy.ru/*
 *://*.kashingdk.ru/*
+*://*.kassy-evotor.ru/*
 *://*.katerinasokol.ru/*
 *://*.kbsepvis.ru/*
 *://*.khokku.ru/*
@@ -328,6 +335,7 @@
 *://*.koshkiwiki.ru/*
 *://*.kotikiinfo.ru/*
 *://*.kozha-lica.ru/*
+*://*.krepezh.net/*
 *://*.kttop.ru/*
 *://*.kyiv.ua/*
 *://*.lada-43.ru/*
@@ -343,6 +351,7 @@
 *://*.lepkomplekt.ru/*
 *://*.letsplayers.ru/*
 *://*.lifeo.ru/*
+*://*.ligtech.ru/*
 *://*.linux-console.net/*
 *://*.linux-terminal.com/*
 *://*.liroro.ru/*
@@ -377,6 +386,7 @@
 *://*.metalloy.ru/*
 *://*.mfgrobots.com/*
 *://*.m-gamer.ru/*
+*://*.mhelp.kz/*
 *://*.mikrotiklab.ru/*
 *://*.minecraft-book.ru/*
 *://*.minecraft-max.ru/*
@@ -423,6 +433,7 @@
 *://*.netigor.ru/*
 *://*.netpapillomy.ru/*
 *://*.newbedev.com/*
+*://*.newgazette.ru/*
 *://*.newogorod.ru/*
 *://*.newtarify.ru/*
 *://*.nokiagid.ru/*
@@ -499,6 +510,7 @@
 *://*.pobeda1945-art.ru/*
 *://*.pochistit.ru/*
 *://*.pogprom.ru/*
+*://*.poligon218.ru/*
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
 *://*.portalcomp.ru/*
@@ -525,6 +537,7 @@
 *://*.profil-pro.ru/*
 *://*.profirk.ru/*
 *://*.progi.pro/*
+*://*.progler.ru/*
 *://*.program-1c.ru/*
 *://*.programmschool.ru/*
 *://*.prog-time.ru/*
@@ -533,10 +546,12 @@
 *://*.proogorodik.ru/*
 *://*.propaiku.ru/*
 *://*.proporodysobak.ru/*
+*://*.proprogrammer.ru/*
 *://*.prosmazku.ru/*
 *://*.prospk.ru/*
 *://*.proubuntu.ru/*
 *://*.proytube.ru/*
+*://*.prprel.ru/*
 *://*.pscraft.ru/*
 *://*.py4u.net/*
 *://*.pyatilistnik.org/*
@@ -594,8 +609,10 @@
 *://*.sbornik-fraz.ru/*
 *://*.scbiinfrastruktura.ru/*
 *://*.sdelatrykami.ru/*
+*://*.selhozinstitut.ru/*
 *://*.semenaforum.ru/*
 *://*.semfamily.ru/*
+*://*.seo-statya.ru/*
 *://*.sergoot.ru/*
 *://*.sertifikatru1.ru/*
 *://*.sertifikatru.ru/*
@@ -606,6 +623,7 @@
 *://*.setphone.ru/*
 *://*.shadani.ru/*
 *://*.sha-d-panno.ru/*
+*://*.shakmak.ru/*
 *://*.sharigame.ru/*
 *://*.shhost.ru/*
 *://*.sibsisadmin.ru/*
@@ -703,6 +721,7 @@
 *://*.true-game.ru/*
 *://*.try2explore.com/*
 *://*.tsaristrussia.ru/*
+*://*.tvcent.ru/*
 *://*.tvdigitally.ru/*
 *://*.typerus.ru/*
 *://*.uborka.co/*
@@ -769,6 +788,7 @@
 *://*.womenburg.ru/*
 *://*.wordexcel.top/*
 *://*.word-ofice.ru/*
+*://*.work-zilla.com/*
 *://*.world-stalkers.ru/*
 *://*.worlplay.ru/*
 *://*.wotpack.ru/*
@@ -793,6 +813,7 @@
 *://*.yug-upr.ru/*
 *://*.zaimi.ru/*
 *://*.zakipyati.ru/*
+*://*.zametkinapolyah.ru/*
 *://*.znatoki.org/*
 *://*.znaysad.ru/*
 *://*.zoo-skazka.ru/*
