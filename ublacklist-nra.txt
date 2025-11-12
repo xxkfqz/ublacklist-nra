@@ -1,3 +1,4 @@
+*://*.048.ua/*
 *://*.100.games/*
 *://*.101-help.com/*
 *://*.1stalin.ru/*
@@ -11,6 +12,7 @@
 *://*.5pet.ru/*
 *://*.7flamme.com/*
 *://*.7gear.ru/*
+*://*.808.media/*
 *://*.8host.com/*
 *://*.8vs.ru/*
 *://*.900913.ru/*
@@ -41,6 +43,7 @@
 *://*.ampaints.ru/*
 *://*.androidinsider.ru/*
 *://*.androidlime.ru/*
+*://*.androidsis.com/*
 *://*.androidtvbox.ru/*
 *://*.answer-id.com/*
 *://*.answersearch.ru/*
@@ -82,6 +85,7 @@
 *://*.blits-air.ru/*
 *://*.blogrunet.ru/*
 *://*.bluraycopys.com/*
+*://*.botfater.ru/*
 *://*.bp1s.ru/*
 *://*.browserplay.ru/*
 *://*.buhuchet-info.ru/*
@@ -135,6 +139,7 @@
 *://*.dasbuch.ru/*
 *://*.datum-s.ru/*
 *://*.ddok.ru/*
+*://*.ddve.ru/*
 *://*.dedpodaril.com/*
 *://*.deepcloud.ru/*
 *://*.deinfeuer.ru/*
@@ -181,11 +186,13 @@
 *://*.easydoit.ru/*
 *://*.e-cighub.ru/*
 *://*.ecpexpert.ru/*
+*://*.electric-220.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
 *://*.elektrikexpert.ru/*
 *://*.elektropraktika.ru/*
 *://*.elektrospets.ru/*
+*://*.elektroznatok.ru/*
 *://*.elika-spb.ru/*
 *://*.elton-zoloto.ru/*
 *://*.eschemo.ru/*
@@ -253,6 +260,7 @@
 *://*.gromkosti.ru/*
 *://*.guidecomp.ru/*
 *://*.happyglasslevel.ru/*
+*://*.hellowiki.ru/*
 *://*.helpdoma.ru/*
 *://*.hololenses.ru/*
 *://*.hozinfo.ru/*
@@ -283,6 +291,7 @@
 *://*.instruko.top/*
 *://*.instruktiv.top/*
 *://*.in.ua/*
+*://*.invest82.ru/*
 *://*.investim.guru/*
 *://*.ip-calculator.ru/*
 *://*.iro-yar.ru/*
@@ -320,6 +329,7 @@
 *://*.katerinasokol.ru/*
 *://*.kbsepvis.ru/*
 *://*.khokku.ru/*
+*://*.kitay-fon.ru/*
 *://*.kli-games.ru/*
 *://*.k-m-b.ru/*
 *://*.kniga-vsluh.ru/*
@@ -342,6 +352,7 @@
 *://*.ladyelena.ru/*
 *://*.lafakzn.ru/*
 *://*.lanos-volgograd.ru/*
+*://*.lanportal.ru/*
 *://*.laseris.ru/*
 *://*.lavrus.org/*
 *://*.learn-portal.ru/*
@@ -469,6 +480,7 @@
 *://*.oshibkis.ru/*
 *://*.oshibku.top/*
 *://*.osta-nina.ru/*
+*://*.ostrovtenerife.ru/*
 *://*.osutivremeni.ru/*
 *://*.otdelka-remont.ru/*
 *://*.oterraria.ru/*
@@ -483,6 +495,7 @@
 *://*.otzyvmarketing.ru/*
 *://*.outlooktransfer.com/*
 *://*.overcoder.net/*
+*://*.o-vitoipare.ru/*
 *://*.ozds.moscow/*
 *://*.ozerokarachi.ru/*
 *://*.paljutemu.ru/*
@@ -575,6 +588,7 @@
 *://*.raznicynet.com/*
 *://*.rbkgames.com/*
 *://*.reabuilding.ru/*
+*://*.reaktiv-rf.ru/*
 *://*.rebusnik.ru/*
 *://*.recepti-pro.ru/*
 *://*.regularhuman.ru/*
@@ -597,7 +611,9 @@
 *://*.ruclient.ru/*
 *://*.rudevice.ru/*
 *://*.rugeek.ru/*
+*://*.rulandia.ru/*
 *://*.rusadmin.biz/*
+*://*.russgps.ru/*
 *://*.russianblogs.com/*
 *://*.rutab.net/*
 *://*.rv-o.ru/*
@@ -690,8 +706,12 @@
 *://*.technika66.ru/*
 *://*.technika-remont.ru/*
 *://*.techn-it.ru/*
+*://*.tehnografi.com/*
+*://*.teledom.org/*
 *://*.teleggid.com/*
 *://*.telegramas.ru/*
+*://*.telegramrocket.com/*
+*://*.telegrator.ru/*
 *://*.tellsmart.ru/*
 *://*.teogame.ru/*
 *://*.tests-english.com/*
@@ -709,6 +729,7 @@
 *://*.top-fun.ru/*
 *://*.tophallclub.ru/*
 *://*.topkoder.ru/*
+*://*.topnomer.ru/*
 *://*.toposhibok.ru/*
 *://*.traiv-komplekt.ru/*
 *://*.translated-into.com/*
@@ -753,6 +774,7 @@
 *://*.vip-excel.ru/*
 *://*.vip-mods.ru/*
 *://*.vitavision.ru/*
+*://*.vkaktakte.ru/*
 *://*.vkusny-recept.ru/*
 *://*.vmeste-masterim.ru/*
 *://*.vospari23.ru/*
@@ -776,6 +798,7 @@
 *://*.white-windows.ru/*
 *://*.wiki-minecraft.ru/*
 *://*.wikiroot.ru/*
+*://*.wildwolfs.ru/*
 *://*.willi-mos.ru/*
 *://*.winadvice.ru/*
 *://*.winda10.com/*
@@ -784,6 +807,7 @@
 *://*.windows-school.ru/*
 *://*.winitpro.ru/*
 *://*.wisto.ru/*
+*://*.wokm.ru/*
 *://*.wol.su/*
 *://*.womenburg.ru/*
 *://*.wordexcel.top/*
@@ -799,8 +823,10 @@
 *://*.xiaomi-1.ru/*
 *://*.xn----7sba7aachdbqfnhtigrl.xn--p1ai/*
 *://*.xn--80aaafltebbc3auk2aepkhr3ewjpa.xn--p1ai/*
+*://*.xn--80affa3aj0al.xn--80asehdb/*
 *://*.xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
 *://*.xn--e1agsbgdeid7b.xn--p1ai/*
+*://*.yablyk.com/*
 *://*.yacollectioner.ru/*
 *://*.yanbrowser.ru/*
 *://*.yandbrowser.ru/*
