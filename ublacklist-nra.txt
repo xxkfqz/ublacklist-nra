@@ -4,6 +4,7 @@
 *://*.1stalin.ru/*
 *://*.1svoimi-rukami.ru/*
 *://*.26pk.ru/*
+*://*.3dsattv.ru/*
 *://*.3d-turizm.ru/*
 *://*.3pechi.ru/*
 *://*.42buketa.ru/*
@@ -19,6 +20,7 @@
 *://*.ac-orbita.ru/*
 *://*.acums.ru/*
 *://*.adminunix.ru/*
+*://*.a-d.site/*
 *://*.aff1.ru/*
 *://*.afishatop.ru/*
 *://*.aggsoft.ru/*
@@ -45,6 +47,8 @@
 *://*.androidlime.ru/*
 *://*.androidsis.com/*
 *://*.androidtvbox.ru/*
+*://*.anekdot-pro.ru/*
+*://*.answerblog.ru/*
 *://*.answer-id.com/*
 *://*.answersearch.ru/*
 *://*.antelmedia.ru/*
@@ -87,9 +91,11 @@
 *://*.bluraycopys.com/*
 *://*.botfater.ru/*
 *://*.bp1s.ru/*
+*://*.bropk.ru/*
 *://*.browserplay.ru/*
 *://*.buhuchet-info.ru/*
 *://*.businesslike.ru/*
+*://*.buzol.ru/*
 *://*.byteblitzhub.ru/*
 *://*.bytenews.ru/*
 *://*.caaac.org/*
@@ -158,6 +164,7 @@
 *://*.dinamikservis.ru/*
 *://*.dino-park-rex.ru/*
 *://*.disertiki.ru/*
+*://*.diskpart.com/*
 *://*.dj-ufo.ru/*
 *://*.doctorshamin.ru/*
 *://*.doctortk.ru/*
@@ -260,6 +267,7 @@
 *://*.gromkosti.ru/*
 *://*.guidecomp.ru/*
 *://*.happyglasslevel.ru/*
+*://*.hddv.ru/*
 *://*.hellowiki.ru/*
 *://*.helpdoma.ru/*
 *://*.hololenses.ru/*
@@ -334,6 +342,7 @@
 *://*.k-m-b.ru/*
 *://*.kniga-vsluh.ru/*
 *://*.kolonka31.ru/*
+*://*.kompiu-pomosch.com/*
 *://*.kompsekret.ru/*
 *://*.komputer-nn.ru/*
 *://*.kompyuter-gid.ru/*
@@ -357,6 +366,7 @@
 *://*.lavrus.org/*
 *://*.learn-portal.ru/*
 *://*.ledsshop.ru/*
+*://*.lee-reload.ru/*
 *://*.legkovopros.ru/*
 *://*.lengto.ru/*
 *://*.lepkomplekt.ru/*
@@ -423,6 +433,7 @@
 *://*.mtcna.ru/*
 *://*.mundobytes.com/*
 *://*.museblog.ru/*
+*://*.myeditor.ru/*
 *://*.my-excel.ru/*
 *://*.mygadanie.ru/*
 *://*.myinfo.by/*
@@ -448,6 +459,7 @@
 *://*.newogorod.ru/*
 *://*.newtarify.ru/*
 *://*.nokiagid.ru/*
+*://*.nordstarco.ru/*
 *://*.novochag.ru/*
 *://*.oarduino.ru/*
 *://*.obecp.ru/*
@@ -466,6 +478,7 @@
 *://*.omaada.com/*
 *://*.omagnitolah.ru/*
 *://*.onesy.ru/*
+*://*.onlajn.ru/*
 *://*.online-fix.me/*
 *://*.ooostroimir.ru/*
 *://*.optpalto.ru/*
@@ -552,6 +565,7 @@
 *://*.progi.pro/*
 *://*.progler.ru/*
 *://*.program-1c.ru/*
+*://*.programmainfo.ru/*
 *://*.programmschool.ru/*
 *://*.prog-time.ru/*
 *://*.pronabludenie.com/*
@@ -566,6 +580,7 @@
 *://*.proytube.ru/*
 *://*.prprel.ru/*
 *://*.pscraft.ru/*
+*://*.pwsh.ru/*
 *://*.py4u.net/*
 *://*.pyatilistnik.org/*
 *://*.qacode.ru/*
@@ -592,6 +607,7 @@
 *://*.rebusnik.ru/*
 *://*.recepti-pro.ru/*
 *://*.regularhuman.ru/*
+*://*.reinehaus.ru/*
 *://*.releika.ru/*
 *://*.remcomphelp.ru/*
 *://*.remontask.ru/*
@@ -605,6 +621,7 @@
 *://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
 *://*.rldp.ru/*
+*://*.rokguide.ru/*
 *://*.roskod.ru/*
 *://*.rubilnik-bor.ru/*
 *://*.rubthb.ru/*
@@ -744,7 +761,9 @@
 *://*.tsaristrussia.ru/*
 *://*.tvcent.ru/*
 *://*.tvdigitally.ru/*
+*://*.tvoi-uvelirr.ru/*
 *://*.typerus.ru/*
+*://*.ubackup.com/*
 *://*.uborka.co/*
 *://*.ubunlog.com/*
 *://*.ubuntugeeks.com/*
@@ -776,6 +795,7 @@
 *://*.vitavision.ru/*
 *://*.vkaktakte.ru/*
 *://*.vkusny-recept.ru/*
+*://*.vladimirbelev.ru/*
 *://*.vmeste-masterim.ru/*
 *://*.vospari23.ru/*
 *://*.vosshinnik.ru/*
@@ -805,6 +825,7 @@
 *://*.windoro.ru/*
 *://*.windows-office.net/*
 *://*.windows-school.ru/*
+*://*.winintro.ru/*
 *://*.winitpro.ru/*
 *://*.wisto.ru/*
 *://*.wokm.ru/*
@@ -840,6 +861,8 @@
 *://*.zaimi.ru/*
 *://*.zakipyati.ru/*
 *://*.zametkinapolyah.ru/*
+*://*.zhivye-oboi-windows.ru/*
+*://*.znakizodiaka.info/*
 *://*.znatoki.org/*
 *://*.znaysad.ru/*
 *://*.zoo-skazka.ru/*
