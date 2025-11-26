@@ -24,6 +24,7 @@
 *://*.aff1.ru/*
 *://*.afishatop.ru/*
 *://*.aggsoft.ru/*
+*://*.agladky.ru/*
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
 *://*.airmedc.com/*
@@ -231,6 +232,7 @@
 *://*.fonarhotel.ru/*
 *://*.fooobar.com/*
 *://*.forexspez.ru/*
+*://*.fotoek.ru/*
 *://*.fresh-dealer.ru/*
 *://*.fsnslnr.su/*
 *://*.gamaem.ru/*
@@ -266,6 +268,7 @@
 *://*.gribysobiraem.info/*
 *://*.gromkosti.ru/*
 *://*.guidecomp.ru/*
+*://*.guru-uborki.ru/*
 *://*.happyglasslevel.ru/*
 *://*.hddv.ru/*
 *://*.hellowiki.ru/*
@@ -335,6 +338,7 @@
 *://*.kashingdk.ru/*
 *://*.kassy-evotor.ru/*
 *://*.katerinasokol.ru/*
+*://*.kayfun.ru/*
 *://*.kbsepvis.ru/*
 *://*.khokku.ru/*
 *://*.kitay-fon.ru/*
@@ -371,6 +375,8 @@
 *://*.lengto.ru/*
 *://*.lepkomplekt.ru/*
 *://*.letsplayers.ru/*
+*://*.libre-office.ru/*
+*://*.libre-office.su/*
 *://*.lifeo.ru/*
 *://*.ligtech.ru/*
 *://*.linux-console.net/*
@@ -439,6 +445,7 @@
 *://*.myinfo.by/*
 *://*.mysolti.ru/*
 *://*.mywebcenter.ru/*
+*://*.nadezhnye-ruki.ru/*
 *://*.napishem.ru/*
 *://*.napodrabotku.ru/*
 *://*.nardar.ru/*
@@ -562,6 +569,7 @@
 *://*.professiya.net/*
 *://*.profil-pro.ru/*
 *://*.profirk.ru/*
+*://*.profi-velo.ru/*
 *://*.progi.pro/*
 *://*.progler.ru/*
 *://*.program-1c.ru/*
@@ -741,6 +749,7 @@
 *://*.tiniatov.ru/*
 *://*.toadmin.ru/*
 *://*.tobiz24.ru/*
+*://*.tobiz.net/*
 *://*.todaytimes.ru/*
 *://*.tomsk.ru/*
 *://*.top-fun.ru/*
@@ -861,6 +870,7 @@
 *://*.zaimi.ru/*
 *://*.zakipyati.ru/*
 *://*.zametkinapolyah.ru/*
+*://*.zanz.ru/*
 *://*.zhivye-oboi-windows.ru/*
 *://*.znakizodiaka.info/*
 *://*.znatoki.org/*
