@@ -28,6 +28,7 @@
 *://*.agronom.expert/*
 *://*.ahaslides.com/*
 *://*.airmedc.com/*
+*://*.aiseesoft.com/*
 *://*.akademiakhv.ru/*
 *://*.akvilona.ru/*
 *://*.alco-boss.com/*
@@ -108,10 +109,12 @@
 *://*.chastnyj-seospecialist.ru/*
 *://*.chistodar.com/*
 *://*.chistotnik.ru/*
+*://*.chistoug.ru/*
 *://*.chistsovet.ru/*
 *://*.cigprice.ru/*
 *://*.cleanpedia.ru/*
 *://*.clite.ru/*
+*://*.cloudo3.com/*
 *://*.club-cs.ru/*
 *://*.code-examples.net/*
 *://*.codefaq.ru/*
@@ -139,6 +142,7 @@
 *://*.cubaset.ru/*
 *://*.cubiq.ru/*
 *://*.czarsafe.ru/*
+*://*.czn-chekhov.ru/*
 *://*.daf-gas36.ru/*
 *://*.danimals.ru/*
 *://*.danovosty.ru/*
@@ -171,6 +175,7 @@
 *://*.doctortk.ru/*
 *://*.dog-breeds.ru/*
 *://*.doma35.ru/*
+*://*.domajisto.ru/*
 *://*.domoticzfaq.ru/*
 *://*.domovodinfo.ru/*
 *://*.dompovarov.ru/*
@@ -274,6 +279,7 @@
 *://*.hellowiki.ru/*
 *://*.helpdoma.ru/*
 *://*.hololenses.ru/*
+*://*.howwindows.ru/*
 *://*.hozinfo.ru/*
 *://*.hozpedia.ru/*
 *://*.hozyaykin.ru/*
@@ -347,6 +353,7 @@
 *://*.kniga-vsluh.ru/*
 *://*.kolonka31.ru/*
 *://*.kompiu-pomosch.com/*
+*://*.kompkimi.ru/*
 *://*.kompsekret.ru/*
 *://*.komputer-nn.ru/*
 *://*.kompyuter-gid.ru/*
@@ -388,6 +395,7 @@
 *://*.lukinews.ru/*
 *://*.lumpics.ru/*
 *://*.lvse.ru/*
+*://*.m2mbank.ru/*
 *://*.madou21.ru/*
 *://*.mainkraft.online/*
 *://*.manikurista.ru/*
@@ -433,6 +441,7 @@
 *://*.moidachi.ru/*
 *://*.molodov-guitarschool.ru/*
 *://*.mosproekty.ru/*
+*://*.movilforum.com/*
 *://*.moya-stranica-help.ru/*
 *://*.mozaiyka.ru/*
 *://*.mrpolyglot.com/*
@@ -450,6 +459,7 @@
 *://*.napodrabotku.ru/*
 *://*.nardar.ru/*
 *://*.nashsovetik.ru/*
+*://*.nasovetuy.ru/*
 *://*.na-stolka.ru/*
 *://*.nastoysam.ru/*
 *://*.nastrojcomp.ru/*
@@ -482,6 +492,7 @@
 *://*.ok15.ru/*
 *://*.okcomfort.com/*
 *://*.ok-gid.ru/*
+*://*.olganikitina.ru/*
 *://*.omaada.com/*
 *://*.omagnitolah.ru/*
 *://*.onesy.ru/*
@@ -513,6 +524,7 @@
 *://*.otvet.lol/*
 *://*.otvet-pravda.ru/*
 *://*.otzyvmarketing.ru/*
+*://*.outlookimport.com/*
 *://*.outlooktransfer.com/*
 *://*.overcoder.net/*
 *://*.o-vitoipare.ru/*
@@ -524,6 +536,7 @@
 *://*.pay3.ru/*
 *://*.pchardwarepro.com/*
 *://*.pcminipro.ru/*
+*://*.pc-remontka.ru/*
 *://*.p-dip.ru/*
 *://*.penoblo.ru/*
 *://*.pensii-lgoty.ru/*
@@ -544,6 +557,7 @@
 *://*.pochistit.ru/*
 *://*.pogprom.ru/*
 *://*.poligon218.ru/*
+*://*.polimetro.com/*
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
 *://*.portalcomp.ru/*
@@ -557,6 +571,7 @@
 *://*.pravanet.ru/*
 *://*.pravoslavyy.ru/*
 *://*.premtanks.ru/*
+*://*.presentation-creation.ru/*
 *://*.prime-name.ru/*
 *://*.principraboty.ru/*
 *://*.privetpiter.ru/*
@@ -611,6 +626,7 @@
 *://*.raznicynet.com/*
 *://*.rbkgames.com/*
 *://*.reabuilding.ru/*
+*://*.readmag.ru/*
 *://*.reaktiv-rf.ru/*
 *://*.rebusnik.ru/*
 *://*.recepti-pro.ru/*
@@ -710,6 +726,7 @@
 *://*.stolyar-26.ru/*
 *://*.stop-klesch.ru/*
 *://*.strategycon.ru/*
+*://*.stroimsamolet.ru/*
 *://*.strouy.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
@@ -724,6 +741,7 @@
 *://*.syl.ru/*
 *://*.sysadminium.ru/*
 *://*.taiga-taiga.ru/*
+*://*.tarot24.ru/*
 *://*.tatsud.ru/*
 *://*.techarks.ru/*
 *://*.techberg.ru/*
@@ -746,6 +764,7 @@
 *://*.thealmanach.ru/*
 *://*.thestrip.ru/*
 *://*.thinbug.com/*
+*://*.thunderbirdtooutlook.com/*
 *://*.tiniatov.ru/*
 *://*.toadmin.ru/*
 *://*.tobiz24.ru/*
@@ -757,6 +776,7 @@
 *://*.topkoder.ru/*
 *://*.topnomer.ru/*
 *://*.toposhibok.ru/*
+*://*.toto-school.ru/*
 *://*.traiv-komplekt.ru/*
 *://*.translated-into.com/*
 *://*.trashexpert.ru/*
@@ -768,6 +788,7 @@
 *://*.true-game.ru/*
 *://*.try2explore.com/*
 *://*.tsaristrussia.ru/*
+*://*.tutsplus.com/*
 *://*.tvcent.ru/*
 *://*.tvdigitally.ru/*
 *://*.tvoi-uvelirr.ru/*
@@ -786,6 +807,7 @@
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
 *://*.urfix.ru/*
+*://*.usebouncer.com/*
 *://*.usylapyhvosti.ru/*
 *://*.utyatnishna.ru/*
 *://*.vamtlgrm.com/*
@@ -794,6 +816,7 @@
 *://*.varebux.ru/*
 *://*.vego-kolbasa.ru/*
 *://*.veloinsider.ru/*
+*://*.veronikaa.ru/*
 *://*.vetpomoch.ru/*
 *://*.vfinansah.com/*
 *://*.vgtkraska24.ru/*
@@ -817,10 +840,12 @@
 *://*.vseprolinux.ru/*
 *://*.vse-rukodelie.ru/*
 *://*.vsetehpribory.ru/*
+*://*.vxworks.ru/*
 *://*.ways4you.ru/*
 *://*.web-answers.ru/*
 *://*.webchef.ru/*
 *://*.webgraal.ru/*
+*://*.webjens.ru/*
 *://*.webznam.ru/*
 *://*.weishunsilicon.com/*
 *://*.welcometochef.ru/*
@@ -836,10 +861,12 @@
 *://*.windows-school.ru/*
 *://*.winintro.ru/*
 *://*.winitpro.ru/*
+*://*.winnote.ru/*
 *://*.wisto.ru/*
 *://*.wokm.ru/*
 *://*.wol.su/*
 *://*.womenburg.ru/*
+*://*.wordexceler.ru/*
 *://*.wordexcel.top/*
 *://*.word-ofice.ru/*
 *://*.work-zilla.com/*
