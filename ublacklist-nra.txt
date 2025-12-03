@@ -91,6 +91,7 @@
 *://*.blits-air.ru/*
 *://*.blogrunet.ru/*
 *://*.bluraycopys.com/*
+*://*.boostmypc.ru/*
 *://*.botfater.ru/*
 *://*.bp1s.ru/*
 *://*.bropk.ru/*
@@ -276,6 +277,7 @@
 *://*.guru-uborki.ru/*
 *://*.happyglasslevel.ru/*
 *://*.hddv.ru/*
+*://*.healthy-lifestyle-24.ru/*
 *://*.hellowiki.ru/*
 *://*.helpdoma.ru/*
 *://*.hololenses.ru/*
@@ -346,6 +348,7 @@
 *://*.katerinasokol.ru/*
 *://*.kayfun.ru/*
 *://*.kbsepvis.ru/*
+*://*.keeprun.ru/*
 *://*.khokku.ru/*
 *://*.kitay-fon.ru/*
 *://*.kli-games.ru/*
@@ -414,6 +417,7 @@
 *://*.mediamarkti.ru/*
 *://*.media-player-s.ru/*
 *://*.mediastore-kazan.ru/*
+*://*.medic-life.com/*
 *://*.megacritic.ru/*
 *://*.megamaster.su/*
 *://*.megavtogal.com/*
@@ -552,6 +556,7 @@
 *://*.playmap.ru/*
 *://*.playsector.ru/*
 *://*.playsforge.ru/*
+*://*.playthisgames.ru/*
 *://*.pnevmogun.ru/*
 *://*.pobeda1945-art.ru/*
 *://*.pochistit.ru/*
