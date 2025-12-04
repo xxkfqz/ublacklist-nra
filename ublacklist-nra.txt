@@ -482,6 +482,7 @@
 *://*.nokiagid.ru/*
 *://*.nordstarco.ru/*
 *://*.novochag.ru/*
+*://*.nspk-nvr.ru/*
 *://*.oarduino.ru/*
 *://*.obecp.ru/*
 *://*.obrazovaka.ru/*
@@ -837,6 +838,7 @@
 *://*.vospari23.ru/*
 *://*.vosshinnik.ru/*
 *://*.votguide.ru/*
+*://*.vot-tac.ru/*
 *://*.vscoapp.ru/*
 *://*.vse-analogi.ru/*
 *://*.vsenotebooki.ru/*
