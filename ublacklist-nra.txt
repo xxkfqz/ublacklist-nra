@@ -13,6 +13,7 @@
 *://*.5pet.ru/*
 *://*.7flamme.com/*
 *://*.7gear.ru/*
+*://*.7lestnic.com/*
 *://*.808.media/*
 *://*.8host.com/*
 *://*.8vs.ru/*
@@ -213,6 +214,7 @@
 *://*.excel-home.ru/*
 *://*.excelka.ru/*
 *://*.excel-plus.ru/*
+*://*.excelprofi.quest/*
 *://*.exceltab.ru/*
 *://*.exceltip.ru/*
 *://*.expert-skin.ru/*
@@ -462,6 +464,7 @@
 *://*.napishem.ru/*
 *://*.napodrabotku.ru/*
 *://*.nardar.ru/*
+*://*.nashicherdaki.ru/*
 *://*.nashsovetik.ru/*
 *://*.nasovetuy.ru/*
 *://*.na-stolka.ru/*
@@ -536,6 +539,7 @@
 *://*.ozds.moscow/*
 *://*.ozerokarachi.ru/*
 *://*.paljutemu.ru/*
+*://*.papa-zil.ru/*
 *://*.parketspektr.ru/*
 *://*.pathofexiles.ru/*
 *://*.pay3.ru/*
@@ -671,6 +675,7 @@
 *://*.samogoniche.ru/*
 *://*.sbornik-fraz.ru/*
 *://*.scbiinfrastruktura.ru/*
+*://*.school21nv.ru/*
 *://*.sdelatrykami.ru/*
 *://*.selhozinstitut.ru/*
 *://*.semenaforum.ru/*
