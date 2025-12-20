@@ -869,6 +869,7 @@
 *://*.winadvice.ru/*
 *://*.winda10.com/*
 *://*.windoro.ru/*
+*://*.windowsnoticias.com/*
 *://*.windows-office.net/*
 *://*.windows-school.ru/*
 *://*.winintro.ru/*
