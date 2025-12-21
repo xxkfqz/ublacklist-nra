@@ -3,6 +3,7 @@
 *://*.101-help.com/*
 *://*.1stalin.ru/*
 *://*.1svoimi-rukami.ru/*
+*://*.220v-guru.ru/*
 *://*.26pk.ru/*
 *://*.3dsattv.ru/*
 *://*.3d-turizm.ru/*
@@ -562,6 +563,7 @@
 *://*.playsector.ru/*
 *://*.playsforge.ru/*
 *://*.playthisgames.ru/*
+*://*.pn-elita.ru/*
 *://*.pnevmogun.ru/*
 *://*.pobeda1945-art.ru/*
 *://*.pochistit.ru/*
@@ -715,6 +717,7 @@
 *://*.solutics.ru/*
 *://*.sovet.help/*
 *://*.spartaktd.ru/*
+*://*.spcelectro.ru/*
 *://*.spechmashural.ru/*
 *://*.spletnik.ru/*
 *://*.sports.ru/*
