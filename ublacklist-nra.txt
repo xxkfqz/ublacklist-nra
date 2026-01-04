@@ -173,6 +173,7 @@
 *://*.dino-park-rex.ru/*
 *://*.disertiki.ru/*
 *://*.diskpart.com/*
+*://*.diyworks.ru/*
 *://*.dj-ufo.ru/*
 *://*.doctorshamin.ru/*
 *://*.doctortk.ru/*
@@ -915,6 +916,7 @@
 *://*.zametkinapolyah.ru/*
 *://*.zanz.ru/*
 *://*.zhivye-oboi-windows.ru/*
+*://*.zigzag-24.ru/*
 *://*.znakizodiaka.info/*
 *://*.znatoki.org/*
 *://*.znaysad.ru/*
