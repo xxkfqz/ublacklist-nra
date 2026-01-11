@@ -260,6 +260,7 @@
 *://*.ggf360.ru/*
 *://*.ghostgm.ru/*
 *://*.giroswheel.ru/*
+*://*.glav.by/*
 *://*.global-hotspot.ru/*
 *://*.global-ocean.ru/*
 *://*.globex-capital.ru/*
@@ -334,6 +335,7 @@
 *://*.japan-portal.ru/*
 *://*.jara26.ru/*
 *://*.jasminshow.ru/*
+*://*.jewelryexpert.ru/*
 *://*.joecomp.com/*
 *://*.journalovirus.ru/*
 *://*.jsk-oren.ru/*
@@ -573,6 +575,7 @@
 *://*.polimetro.com/*
 *://*.pomoshnikguru.ru/*
 *://*.poptechno.ru/*
+*://*.portalbmw.ru/*
 *://*.portalcomp.ru/*
 *://*.posetke.ru/*
 *://*.poshtukaturke.ru/*
@@ -717,6 +720,7 @@
 *://*.soloby.ru/*
 *://*.solutics.ru/*
 *://*.sovet.help/*
+*://*.sozvezdieturov.ru/*
 *://*.spartaktd.ru/*
 *://*.spcelectro.ru/*
 *://*.spechmashural.ru/*
@@ -900,6 +904,7 @@
 *://*.xn--80affa3aj0al.xn--80asehdb/*
 *://*.xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
 *://*.xn--e1agsbgdeid7b.xn--p1ai/*
+*://*.yablochniiguru.ru/*
 *://*.yablyk.com/*
 *://*.yacollectioner.ru/*
 *://*.yanbrowser.ru/*
