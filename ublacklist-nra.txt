@@ -56,6 +56,8 @@
 *://*.answer-id.com/*
 *://*.answersearch.ru/*
 *://*.antelmedia.ru/*
+*://*.appleinsider.ru/*
+*://*.apptoday.ru/*
 *://*.aquaroleplay.ru/*
 *://*.aquaznanie.ru/*
 *://*.ar37.ru/*
@@ -417,6 +419,8 @@
 *://*.market-smm.pro/*
 *://*.markouks.ru/*
 *://*.masterspec61.ru/*
+*://*.max-platform.ru/*
+*://*.maxstars.ru/*
 *://*.m-blesk.ru/*
 *://*.mdgrk.ru/*
 *://*.mebel-go.ru/*
@@ -436,6 +440,7 @@
 *://*.mfgrobots.com/*
 *://*.m-gamer.ru/*
 *://*.mhelp.kz/*
+*://*.mi-check.ru/*
 *://*.mikrotiklab.ru/*
 *://*.minecraft-book.ru/*
 *://*.minecraft-max.ru/*
@@ -914,6 +919,7 @@
 *://*.xn----8sbfgf1bdjhf5a1j.xn--p1ai/*
 *://*.xn--c1adkuei.xn--90ais/*
 *://*.xn--e1agsbgdeid7b.xn--p1ai/*
+*://*.xtalk.pro/*
 *://*.yablochniiguru.ru/*
 *://*.yablyk.com/*
 *://*.yacollectioner.ru/*
