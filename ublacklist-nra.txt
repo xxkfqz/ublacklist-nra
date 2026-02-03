@@ -63,6 +63,7 @@
 *://*.ar37.ru/*
 *://*.arduino-tech.ru/*
 *://*.arena18skill.ru/*
+*://*.arghome.ru/*
 *://*.arhivo.com/*
 *://*.arwm.ru/*
 *://*.ascentoptics.com/*
@@ -152,6 +153,7 @@
 *://*.danimals.ru/*
 *://*.danovosty.ru/*
 *://*.dansay.ru/*
+*://*.darwinaward.ru/*
 *://*.dasbuch.ru/*
 *://*.datum-s.ru/*
 *://*.ddok.ru/*
@@ -207,6 +209,7 @@
 *://*.e-cighub.ru/*
 *://*.ecpexpert.ru/*
 *://*.electric-220.ru/*
+*://*.electricremont.ru/*
 *://*.electroinfo.net/*
 *://*.elektrik-city.ru/*
 *://*.elektrikexpert.ru/*
@@ -668,6 +671,7 @@
 *://*.rem-sovet.ru/*
 *://*.remstroy.pro/*
 *://*.repka-sp.ru/*
+*://*.rerate.ru/*
 *://*.restcompany.ru/*
 *://*.riotbits.com/*
 *://*.riseofkingdom.ru/*
@@ -712,6 +716,7 @@
 *://*.sharigame.ru/*
 *://*.shhost.ru/*
 *://*.sibsisadmin.ru/*
+*://*.sigmablog.ru/*
 *://*.silent-hill.ru/*
 *://*.silverkomp.ru/*
 *://*.simascrap.ru/*
@@ -786,7 +791,9 @@
 *://*.telegramas.ru/*
 *://*.telegramrocket.com/*
 *://*.telegrator.ru/*
+*://*.tellmi.ru/*
 *://*.tellsmart.ru/*
+*://*.telona.ru/*
 *://*.teogame.ru/*
 *://*.tests-english.com/*
 *://*.textme.work/*
@@ -861,6 +868,7 @@
 *://*.vkusny-recept.ru/*
 *://*.vladimirbelev.ru/*
 *://*.vmeste-masterim.ru/*
+*://*.vodobur24.ru/*
 *://*.v-ofice.ru/*
 *://*.vospari23.ru/*
 *://*.vosshinnik.ru/*
