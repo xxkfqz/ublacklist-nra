@@ -905,6 +905,7 @@
 *://*.winintro.ru/*
 *://*.winitpro.ru/*
 *://*.winnote.ru/*
+*://*.winscan2pdf.com/*
 *://*.wisto.ru/*
 *://*.wokm.ru/*
 *://*.wol.su/*
