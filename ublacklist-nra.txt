@@ -315,6 +315,7 @@
 *://*.info-goods.ru/*
 *://*.infogoro.ru/*
 *://*.infokotiki.ru/*
+*://*.inforing73.ru/*
 *://*.informationsecurityasia.com/*
 *://*.instruk24.ru/*
 *://*.instruka.ru/*
@@ -426,6 +427,7 @@
 *://*.maxstars.ru/*
 *://*.m-blesk.ru/*
 *://*.mdgrk.ru/*
+*://*.mebel169.ru/*
 *://*.mebel-go.ru/*
 *://*.mebelniyguru.ru/*
 *://*.mebel-sovet.ru/*
@@ -725,6 +727,7 @@
 *://*.slesario.ru/*
 *://*.slonrekomenduet.com/*
 *://*.slovarikslov.ru/*
+*://*.slovaroid.ru/*
 *://*.smartadm.ru/*
 *://*.smartronix.ru/*
 *://*.smiame.ru/*
