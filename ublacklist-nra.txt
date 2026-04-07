@@ -538,6 +538,7 @@
 *://*.oshibkin.ru/*
 *://*.oshibkis.ru/*
 *://*.oshibku.top/*
+*://*.oslovah.ru/*
 *://*.osta-nina.ru/*
 *://*.ostrovtenerife.ru/*
 *://*.osutivremeni.ru/*
@@ -768,6 +769,7 @@
 *://*.strouy.ru/*
 *://*.stroy-book.com/*
 *://*.stroy-podskazka.ru/*
+*://*.student-madi.ru/*
 *://*.sumkamodnaya.ru/*
 *://*.sunmag.me/*
 *://*.sunnyfresh.ru/*
