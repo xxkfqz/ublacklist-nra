@@ -267,6 +267,7 @@
 *://*.ghostgm.ru/*
 *://*.girasole.by/*
 *://*.giroswheel.ru/*
+*://*.gk-promservis.ru/*
 *://*.glav.by/*
 *://*.global-hotspot.ru/*
 *://*.global-ocean.ru/*
@@ -278,6 +279,7 @@
 *://*.goldadvert.com/*
 *://*.goodgame.ru/*
 *://*.goodvar.ru/*
+*://*.gosuslugi-official.help/*
 *://*.gosuslugisovet.ru/
 *://*.gosuslugisovet.ru/*
 *://*.gradusinfo.ru/*
@@ -288,6 +290,7 @@
 *://*.gromkosti.ru/*
 *://*.guidecomp.ru/*
 *://*.guru-uborki.ru/*
+*://*.gydro-cylinder.ru/*
 *://*.happyglasslevel.ru/*
 *://*.hddv.ru/*
 *://*.healthy-lifestyle-24.ru/*
@@ -463,6 +466,7 @@
 *://*.mobilpiu.ru/*
 *://*.modsgames.ru/*
 *://*.moidachi.ru/*
+*://*.moj-kabinet.ru/*
 *://*.molodov-guitarschool.ru/*
 *://*.mooo.com/*
 *://*.mosproekty.ru/*
@@ -614,6 +618,7 @@
 *://*.procyber.me/*
 *://*.proeveryday.ru/*
 *://*.profakty.ru/*
+*://*.profazu.ru/*
 *://*.professiya.net/*
 *://*.profil-pro.ru/*
 *://*.profirk.ru/*
@@ -844,6 +849,7 @@
 *://*.uchenie.top/*
 *://*.ucord.ru/*
 *://*.ufokids.ru/*
+*://*.ugolovnkin.ru/*
 *://*.u-keramika.ru/*
 *://*.umniimir.ru/*
 *://*.universe-soft.com/*
@@ -851,6 +857,7 @@
 *://*.uralchip.ru/*
 *://*.uralkayak.ru/*
 *://*.urfix.ru/*
+*://*.urist-onlain.ru/*
 *://*.usebouncer.com/*
 *://*.usylapyhvosti.ru/*
 *://*.utyatnishna.ru/*
